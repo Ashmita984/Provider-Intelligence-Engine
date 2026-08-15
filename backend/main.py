@@ -7,6 +7,7 @@ LIVE ENDPOINTS:
 --------------
 - GET  /                                (Root Health Check -> {"status": "ok"})
 - POST /api/ml/predict                  (ML Prediction -> Access Gap, Cluster ID, Anomaly Score)
+- POST /api/notification/notify         (WhatsApp Notification Alert via Twilio)
 
 STUBBED ENDPOINTS (501 Not Implemented):
 ----------------------------------------
@@ -24,9 +25,13 @@ STUBBED ENDPOINTS (501 Not Implemented):
 - POST /api/optimization/placement      (Waiting on cost data and geographic distance data)
 - POST /api/optimization/alternative-care (Waiting on cost data and geographic distance data)
 - POST /api/simulation/what-if          (Waiting on Access Gap Score formula)
-- POST /api/notification/notify         (Waiting on Twilio credentials setup)
 ========================================================================================
 """
+
+from dotenv import load_dotenv
+
+# Load environment variables from .env file at startup
+load_dotenv()
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
@@ -43,7 +48,7 @@ from .api.notification import router as notification_router
 
 app = FastAPI(
     title="Healthcare Provider Access-Gap Decision-Support API",
-    description="Backend service for predicting access gaps, clustering regions, and anomaly detection.",
+    description="Backend service for predicting access gaps, clustering regions, anomaly detection, and WhatsApp alerts.",
     version="1.0.0"
 )
 

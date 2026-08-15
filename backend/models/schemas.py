@@ -17,3 +17,14 @@ class MLPredictionResponse(BaseModel):
     cluster_id: int = Field(..., description="Assigned K-Means cluster ID")
     is_anomaly: bool = Field(..., description="Flag indicating if area is an anomaly")
     anomaly_score: float = Field(..., description="Isolation Forest anomaly decision score")
+
+class NotificationRequest(BaseModel):
+    to_number: str = Field(..., description="Recipient phone number (e.g. +91XXXXXXXXXX or whatsapp:+91XXXXXXXXXX)")
+    area_name: str = Field(..., description="Area or region name where shortage was detected")
+    specialty: str = Field(..., description="Healthcare specialty experiencing shortage")
+    risk_level: str = Field(..., description="Risk level (e.g. HIGH, CRITICAL)")
+
+class NotificationResponse(BaseModel):
+    status: str = Field(..., description="Status of delivery: 'sent' or 'failed'")
+    message_sid: Optional[str] = Field(None, description="Twilio message SID if sent successfully")
+    error: Optional[str] = Field(None, description="Error message if delivery failed")
