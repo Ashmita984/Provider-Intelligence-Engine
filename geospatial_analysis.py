@@ -28,8 +28,17 @@ def clean_zip(val):
     return s[:5]
 
 def main():
-    print("Loading UC05_PROVIDER_MASTER_50K.csv...")
-    df = pd.read_csv("UC05_PROVIDER_MASTER_50K.csv", dtype={'ZIP': str, 'COUNTY_FIPS': str})
+    import os
+    provider_paths = [
+        "UC05_FINAL_DATA_WITH_DISEASE (2)/UC05_PROVIDER_FINAL_WITH_DISEASE.csv",
+        "UC05_finalled_data/UC05_PROVIDER_FINAL.csv",
+        "UC05_PROVIDER_FINAL.csv"
+    ]
+    p_path = next((p for p in provider_paths if os.path.exists(p)), None)
+    if not p_path:
+        raise FileNotFoundError("Could not find UC05_PROVIDER dataset!")
+    print(f"Loading provider dataset from '{p_path}'...")
+    df = pd.read_csv(p_path, dtype={'ZIP': str, 'COUNTY_FIPS': str})
     
     print(f"Total provider records loaded: {len(df)}")
     
@@ -78,7 +87,7 @@ def main():
     print("Grouping by COUNTY_FIPS + PRIMARY SPECIALTY...")
     valid_dist_df = df.dropna(subset=['distance_to_pop_center'])
     
-    grouped = valid_dist_df.groupby(['COUNTY_FIPS', 'PRIMARY SPECIALTY']).agg(
+    grouped = valid_dist_df.groupby(['COUNTY_FIPS', 'PRIMARY_SPECIALTY']).agg(
         avg_distance_to_provider=('distance_to_pop_center', 'mean'),
         min_distance_to_provider=('distance_to_pop_center', 'min'),
         provider_count_in_county=('distance_to_pop_center', 'count')

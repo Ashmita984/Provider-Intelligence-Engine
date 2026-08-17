@@ -20,11 +20,15 @@ class MLPredictionResponse(BaseModel):
 
 class NotificationRequest(BaseModel):
     to_number: str = Field(..., description="Recipient phone number (e.g. +91XXXXXXXXXX or whatsapp:+91XXXXXXXXXX)")
-    area_name: str = Field(..., description="Area or region name where shortage was detected")
-    specialty: str = Field(..., description="Healthcare specialty experiencing shortage")
-    risk_level: str = Field(..., description="Risk level (e.g. HIGH, CRITICAL)")
+    message: Optional[str] = Field(None, description="Custom healthcare notification message text")
+    area_name: Optional[str] = Field(None, description="Area or region name where shortage was detected")
+    specialty: Optional[str] = Field(None, description="Healthcare specialty experiencing shortage")
+    risk_level: Optional[str] = Field(None, description="Risk level (e.g. HIGH, CRITICAL)")
+    recommendation: Optional[str] = Field(None, description="Recommended action (e.g. Provider recruitment recommended)")
 
 class NotificationResponse(BaseModel):
+    success: bool = Field(..., description="True if delivery succeeded on any channel, False otherwise")
+    channel: str = Field(..., description="Delivery channel used: 'whatsapp' or 'sms'")
     status: str = Field(..., description="Status of delivery: 'sent' or 'failed'")
     message_sid: Optional[str] = Field(None, description="Twilio message SID if sent successfully")
     error: Optional[str] = Field(None, description="Error message if delivery failed")

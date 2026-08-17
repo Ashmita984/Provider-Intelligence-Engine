@@ -8,7 +8,7 @@ def main():
     print("=" * 70)
     print("STEP 1: Loading Dataset")
     print("=" * 70)
-    df = pd.read_csv("UC05_DECISION.csv")
+    df = pd.read_csv("UC05_finalled_data/UC05_DECISION_FINAL.csv")
     print(f"Dataset loaded successfully. Shape: {df.shape}")
     
     print("\n" + "=" * 70)

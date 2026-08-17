@@ -8,8 +8,17 @@ def main():
     print("=" * 75)
     print("STEP 1: Loading Dataset & Computing Ratio Features")
     print("=" * 75)
-    df = pd.read_csv("UC05_DECISION.csv")
-    print(f"Dataset loaded successfully. Shape: {df.shape}")
+    import os
+    dataset_paths = [
+        "UC05_FINAL_DATA_WITH_DISEASE (2)/UC05_DECISION_FINAL_WITH_DISEASE.csv",
+        "UC05_finalled_data/UC05_DECISION_FINAL.csv",
+        "UC05_DECISION_FINAL.csv"
+    ]
+    df_path = next((p for p in dataset_paths if os.path.exists(p)), None)
+    if not df_path:
+        raise FileNotFoundError("Could not find UC05_DECISION dataset!")
+    df = pd.read_csv(df_path)
+    print(f"Dataset loaded successfully from '{df_path}'. Shape: {df.shape}")
     
     # Compute the 3 ratio features
     df['providers_per_1000_patients'] = (df['PROVIDER_COUNT'] / df['ESTIMATED_PATIENTS']) * 1000

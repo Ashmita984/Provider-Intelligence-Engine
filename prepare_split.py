@@ -8,8 +8,17 @@ def main():
     print("=" * 60)
     print("STEP 1: Loading Dataset & Creating Target 'gap'")
     print("=" * 60)
-    df = pd.read_csv("UC05_DECISION.csv")
-    print(f"Loaded UC05_DECISION.csv successfully. Shape: {df.shape}")
+    import os
+    dataset_paths = [
+        "UC05_FINAL_DATA_WITH_DISEASE (2)/UC05_DECISION_FINAL_WITH_DISEASE.csv",
+        "UC05_finalled_data/UC05_DECISION_FINAL.csv",
+        "UC05_DECISION_FINAL.csv"
+    ]
+    df_path = next((p for p in dataset_paths if os.path.exists(p)), None)
+    if not df_path:
+        raise FileNotFoundError("Could not find UC05_DECISION dataset!")
+    df = pd.read_csv(df_path)
+    print(f"Loaded decision dataset from '{df_path}' successfully. Shape: {df.shape}")
     
     # Define binary target
     # gap = 1 if ACCESS_GAP_LEVEL in ['CRITICAL GAP', 'HIGH GAP', 'MODERATE GAP', 'NO PROVIDER']

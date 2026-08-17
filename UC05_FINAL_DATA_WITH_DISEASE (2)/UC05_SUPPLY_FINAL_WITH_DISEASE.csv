@@ -1,0 +1,1355 @@
+COUNTY_FIPS,STATE,REQUIRED_SPECIALTY,DISEASE,PROVIDER_COUNT,TOTAL_BENEFICIARIES,TOTAL_SERVICES
+26001,MI,Psychiatry,Mental Health Disorders,1,0,0.0
+26005,MI,Endocrinology,Diabetes,1,169,382.0
+26005,MI,Internal Medicine,General Medicine Conditions,15,1598,6853.0
+26005,MI,Neurology,Neurological Disorders,1,180,375.0
+26005,MI,Psychiatry,Mental Health Disorders,11,455,1718.0
+26005,MI,Pulmonary,Respiratory Disease,1,252,526.0
+26005,MI,Rheumatology,Arthritis,2,250,528.0
+26007,MI,Cardiology,Heart Disease,5,9131,23145.0
+26007,MI,Oncology,Cancer,1,628,3273.0
+26007,MI,Internal Medicine,General Medicine Conditions,9,1720,3865.0
+26007,MI,Neurology,Neurological Disorders,2,0,0.0
+26007,MI,Psychiatry,Mental Health Disorders,5,586,5299.0
+26007,MI,Pulmonary,Respiratory Disease,2,1661,5017.0
+26009,MI,Neurology,Neurological Disorders,1,263,483.0
+26009,MI,Psychiatry,Mental Health Disorders,1,0,0.0
+26011,MI,Internal Medicine,General Medicine Conditions,5,977,2739.0
+26011,MI,Psychiatry,Mental Health Disorders,3,98,511.0
+26013,MI,Cardiology,Heart Disease,1,11,25.0
+26015,MI,Cardiology,Heart Disease,1,190,265.0
+26015,MI,Internal Medicine,General Medicine Conditions,2,516,31233.0
+26015,MI,Psychiatry,Mental Health Disorders,1,17,64.0
+26017,MI,Cardiology,Heart Disease,8,5439,20881.0
+26017,MI,Oncology,Cancer,3,408,914.0
+26017,MI,Internal Medicine,General Medicine Conditions,27,9633,48014.0
+26017,MI,Neurology,Neurological Disorders,3,695,12447.0
+26017,MI,Psychiatry,Mental Health Disorders,10,1171,8160.0
+26017,MI,Pulmonary,Respiratory Disease,3,1034,2925.0
+26017,MI,Rheumatology,Arthritis,1,124,11248.0
+26019,MI,Internal Medicine,General Medicine Conditions,1,0,0.0
+26019,MI,Psychiatry,Mental Health Disorders,1,52,150.0
+26021,MI,Cardiology,Heart Disease,8,3678,10146.0
+26021,MI,Endocrinology,Diabetes,4,696,2193.0
+26021,MI,Oncology,Cancer,4,1507,3874.0
+26021,MI,Internal Medicine,General Medicine Conditions,46,8957,37183.0
+26021,MI,Neurology,Neurological Disorders,8,1533,3322.0
+26021,MI,Psychiatry,Mental Health Disorders,10,437,2109.0
+26021,MI,Pulmonary,Respiratory Disease,8,1263,3301.0
+26021,MI,Rheumatology,Arthritis,3,816,3645.0
+26023,MI,Internal Medicine,General Medicine Conditions,6,2466,16707.0
+26023,MI,Psychiatry,Mental Health Disorders,5,101,409.0
+26023,MI,Rheumatology,Arthritis,1,80,3023.0
+26025,MI,Cardiology,Heart Disease,7,6808,12245.0
+26025,MI,Endocrinology,Diabetes,1,87,148.0
+26025,MI,Oncology,Cancer,3,818,54983.0
+26025,MI,Internal Medicine,General Medicine Conditions,49,11850,33338.0
+26025,MI,Neurology,Neurological Disorders,6,925,1874.0
+26025,MI,Psychiatry,Mental Health Disorders,16,787,5640.0
+26025,MI,Pulmonary,Respiratory Disease,4,966,3136.0
+26025,MI,Rheumatology,Arthritis,3,834,3004.0
+26027,MI,Internal Medicine,General Medicine Conditions,4,1244,4308.0
+26029,MI,Oncology,Cancer,1,40,102.0
+26029,MI,Internal Medicine,General Medicine Conditions,2,131,401.0
+26029,MI,Psychiatry,Mental Health Disorders,1,19,38.0
+26029,MI,Pulmonary,Respiratory Disease,1,167,221.0
+26033,MI,Endocrinology,Diabetes,1,184,426.0
+26033,MI,Oncology,Cancer,1,125,650.0
+26033,MI,Internal Medicine,General Medicine Conditions,3,99,325.0
+26033,MI,Psychiatry,Mental Health Disorders,3,100,311.0
+26033,MI,Pulmonary,Respiratory Disease,1,257,597.0
+26037,MI,Endocrinology,Diabetes,1,187,405.0
+26037,MI,Internal Medicine,General Medicine Conditions,9,1837,7808.0
+26037,MI,Psychiatry,Mental Health Disorders,3,128,377.0
+26039,MI,Cardiology,Heart Disease,1,1122,1903.0
+26039,MI,Oncology,Cancer,2,602,1697.0
+26039,MI,Internal Medicine,General Medicine Conditions,20,4413,11710.0
+26041,MI,Cardiology,Heart Disease,2,905,1424.0
+26041,MI,Internal Medicine,General Medicine Conditions,2,1233,3974.0
+26041,MI,Neurology,Neurological Disorders,1,208,271.0
+26041,MI,Pulmonary,Respiratory Disease,1,139,456.0
+26043,MI,Cardiology,Heart Disease,6,2124,4386.0
+26043,MI,Oncology,Cancer,1,125,301.0
+26043,MI,Internal Medicine,General Medicine Conditions,8,1702,3971.0
+26043,MI,Neurology,Neurological Disorders,1,58,153.0
+26043,MI,Psychiatry,Mental Health Disorders,1,43,118.0
+26045,MI,Cardiology,Heart Disease,4,3509,8480.0
+26045,MI,Internal Medicine,General Medicine Conditions,17,3554,13666.0
+26045,MI,Pulmonary,Respiratory Disease,1,135,194.0
+26047,MI,Cardiology,Heart Disease,1,107,163.0
+26047,MI,Oncology,Cancer,2,183,368.0
+26047,MI,Internal Medicine,General Medicine Conditions,6,573,1979.0
+26047,MI,Neurology,Neurological Disorders,3,415,4006.0
+26047,MI,Psychiatry,Mental Health Disorders,4,94,402.0
+26047,MI,Pulmonary,Respiratory Disease,2,2579,6431.0
+26049,MI,Cardiology,Heart Disease,27,16012,56096.0
+26049,MI,Endocrinology,Diabetes,3,1764,9098.0
+26049,MI,Oncology,Cancer,9,3054,553801.0
+26049,MI,Internal Medicine,General Medicine Conditions,141,27275,202400.0
+26049,MI,Neurology,Neurological Disorders,13,3759,45771.0
+26049,MI,Psychiatry,Mental Health Disorders,16,1125,9205.0
+26049,MI,Pulmonary,Respiratory Disease,22,9304,37602.0
+26049,MI,Rheumatology,Arthritis,4,876,37197.0
+26053,MI,Internal Medicine,General Medicine Conditions,2,285,1866.0
+26053,MI,Psychiatry,Mental Health Disorders,2,30,92.0
+26055,MI,Internal Medicine,General Medicine Conditions,4,532,1170.0
+26055,MI,Psychiatry,Mental Health Disorders,3,106,390.0
+26055,MI,Pulmonary,Respiratory Disease,1,306,759.0
+26057,MI,Cardiology,Heart Disease,3,5076,9202.0
+26057,MI,Endocrinology,Diabetes,1,69,178.0
+26057,MI,Oncology,Cancer,2,750,1720.0
+26057,MI,Internal Medicine,General Medicine Conditions,7,1103,8306.0
+26057,MI,Neurology,Neurological Disorders,1,605,2836.0
+26057,MI,Psychiatry,Mental Health Disorders,4,374,3568.0
+26057,MI,Pulmonary,Respiratory Disease,1,496,1080.0
+26059,MI,Cardiology,Heart Disease,1,539,2020.0
+26059,MI,Internal Medicine,General Medicine Conditions,5,919,3384.0
+26059,MI,Neurology,Neurological Disorders,1,194,585.0
+26059,MI,Psychiatry,Mental Health Disorders,3,337,1503.0
+26059,MI,Pulmonary,Respiratory Disease,2,1241,2734.0
+26061,MI,Cardiology,Heart Disease,1,1779,3585.0
+26061,MI,Internal Medicine,General Medicine Conditions,8,2397,4696.0
+26061,MI,Psychiatry,Mental Health Disorders,4,74,358.0
+26061,MI,Rheumatology,Arthritis,1,61,112.0
+26063,MI,Cardiology,Heart Disease,2,1692,5773.0
+26063,MI,Oncology,Cancer,1,61,143.0
+26063,MI,Internal Medicine,General Medicine Conditions,8,2058,6131.0
+26063,MI,Neurology,Neurological Disorders,1,0,0.0
+26063,MI,Psychiatry,Mental Health Disorders,4,266,1473.0
+26063,MI,Pulmonary,Respiratory Disease,1,394,1255.0
+26065,MI,Cardiology,Heart Disease,23,21686,41870.0
+26065,MI,Endocrinology,Diabetes,7,727,1761.0
+26065,MI,Oncology,Cancer,9,1238,2672.0
+26065,MI,Internal Medicine,General Medicine Conditions,112,18457,69403.0
+26065,MI,Neurology,Neurological Disorders,23,2445,11664.0
+26065,MI,Psychiatry,Mental Health Disorders,51,2469,15723.0
+26065,MI,Pulmonary,Respiratory Disease,7,2552,6369.0
+26065,MI,Rheumatology,Arthritis,5,2209,436393.0
+26067,MI,Internal Medicine,General Medicine Conditions,2,0,0.0
+26067,MI,Psychiatry,Mental Health Disorders,2,39,197.0
+26069,MI,Internal Medicine,General Medicine Conditions,6,1619,3954.0
+26069,MI,Psychiatry,Mental Health Disorders,1,0,0.0
+26071,MI,Cardiology,Heart Disease,1,781,2110.0
+26071,MI,Internal Medicine,General Medicine Conditions,1,1768,4076.0
+26073,MI,Cardiology,Heart Disease,3,2193,4418.0
+26073,MI,Oncology,Cancer,1,105,336.0
+26073,MI,Internal Medicine,General Medicine Conditions,14,3381,10901.0
+26073,MI,Neurology,Neurological Disorders,2,213,519.0
+26073,MI,Psychiatry,Mental Health Disorders,7,321,1364.0
+26073,MI,Pulmonary,Respiratory Disease,1,208,756.0
+26073,MI,Rheumatology,Arthritis,1,97,260.0
+26075,MI,Cardiology,Heart Disease,12,8909,23336.0
+26075,MI,Endocrinology,Diabetes,2,695,2199.0
+26075,MI,Oncology,Cancer,4,702,3789.0
+26075,MI,Internal Medicine,General Medicine Conditions,49,11914,218500.0
+26075,MI,Neurology,Neurological Disorders,8,2176,5138.0
+26075,MI,Psychiatry,Mental Health Disorders,20,878,3592.0
+26075,MI,Rheumatology,Arthritis,1,291,929.0
+26077,MI,Cardiology,Heart Disease,18,12486,26078.0
+26077,MI,Endocrinology,Diabetes,3,692,1426.0
+26077,MI,Oncology,Cancer,8,1409,119107.0
+26077,MI,Internal Medicine,General Medicine Conditions,109,20280,105339.0
+26077,MI,Neurology,Neurological Disorders,13,3092,5634.0
+26077,MI,Psychiatry,Mental Health Disorders,37,1286,6267.0
+26077,MI,Pulmonary,Respiratory Disease,3,991,2198.0
+26077,MI,Rheumatology,Arthritis,4,694,2370.0
+26079,MI,Pulmonary,Respiratory Disease,1,0,0.0
+26081,MI,Cardiology,Heart Disease,59,36640,98665.0
+26081,MI,Endocrinology,Diabetes,13,1850,3880.0
+26081,MI,Oncology,Cancer,30,4482,792203.0
+26081,MI,Internal Medicine,General Medicine Conditions,322,44008,435699.0
+26081,MI,Neurology,Neurological Disorders,79,9093,53116.0
+26081,MI,Psychiatry,Mental Health Disorders,120,5518,19129.0
+26081,MI,Pulmonary,Respiratory Disease,50,9736,28205.0
+26081,MI,Rheumatology,Arthritis,14,2482,294987.5
+26085,MI,Internal Medicine,General Medicine Conditions,1,23,36.0
+26087,MI,Cardiology,Heart Disease,5,2628,8531.0
+26087,MI,Oncology,Cancer,1,416,1520.0
+26087,MI,Internal Medicine,General Medicine Conditions,10,4090,26030.0
+26087,MI,Neurology,Neurological Disorders,1,527,7324.0
+26087,MI,Psychiatry,Mental Health Disorders,5,223,1114.0
+26087,MI,Pulmonary,Respiratory Disease,6,4157,18238.0
+26089,MI,Cardiology,Heart Disease,13,15721,30236.0
+26089,MI,Endocrinology,Diabetes,3,616,1538.0
+26089,MI,Oncology,Cancer,3,693,1697.0
+26089,MI,Internal Medicine,General Medicine Conditions,83,15740,61837.3
+26089,MI,Neurology,Neurological Disorders,13,1817,5461.0
+26089,MI,Psychiatry,Mental Health Disorders,16,583,2566.0
+26089,MI,Pulmonary,Respiratory Disease,2,683,1634.0
+26089,MI,Rheumatology,Arthritis,2,467,1305.0
+26091,MI,Internal Medicine,General Medicine Conditions,10,1833,12018.0
+26091,MI,Psychiatry,Mental Health Disorders,7,386,2311.0
+26091,MI,Pulmonary,Respiratory Disease,1,516,1738.0
+26093,MI,Cardiology,Heart Disease,4,3392,8114.0
+26093,MI,Endocrinology,Diabetes,1,387,1156.0
+26093,MI,Oncology,Cancer,1,119,304.0
+26093,MI,Internal Medicine,General Medicine Conditions,32,5870,34275.0
+26093,MI,Neurology,Neurological Disorders,10,2436,13741.0
+26093,MI,Psychiatry,Mental Health Disorders,12,570,10790.0
+26093,MI,Rheumatology,Arthritis,3,1029,63276.0
+26095,MI,Internal Medicine,General Medicine Conditions,2,0,0.0
+26097,MI,Internal Medicine,General Medicine Conditions,2,247,582.0
+26099,MI,Cardiology,Heart Disease,51,43533,149418.0
+26099,MI,Endocrinology,Diabetes,14,5913,40176.0
+26099,MI,Oncology,Cancer,16,5975,599697.0
+26099,MI,Internal Medicine,General Medicine Conditions,234,50527,316085.0
+26099,MI,Neurology,Neurological Disorders,42,12073,97804.0
+26099,MI,Psychiatry,Mental Health Disorders,54,5237,37010.0
+26099,MI,Pulmonary,Respiratory Disease,29,9525,37002.0
+26099,MI,Rheumatology,Arthritis,11,2415,565939.3
+26101,MI,Internal Medicine,General Medicine Conditions,3,677,3597.0
+26101,MI,Psychiatry,Mental Health Disorders,2,470,655.0
+26103,MI,Cardiology,Heart Disease,9,4620,9613.0
+26103,MI,Oncology,Cancer,1,259,672.0
+26103,MI,Internal Medicine,General Medicine Conditions,14,2216,15899.0
+26103,MI,Neurology,Neurological Disorders,3,284,15192.0
+26103,MI,Psychiatry,Mental Health Disorders,4,196,955.0
+26103,MI,Pulmonary,Respiratory Disease,2,432,1396.0
+26103,MI,Rheumatology,Arthritis,1,71,115.0
+26105,MI,Oncology,Cancer,4,558,1447.0
+26105,MI,Internal Medicine,General Medicine Conditions,3,0,0.0
+26105,MI,Psychiatry,Mental Health Disorders,1,33,110.0
+26107,MI,Internal Medicine,General Medicine Conditions,3,547,2702.0
+26109,MI,Psychiatry,Mental Health Disorders,1,0,0.0
+26111,MI,Cardiology,Heart Disease,3,5560,10049.0
+26111,MI,Endocrinology,Diabetes,2,579,1786.0
+26111,MI,Oncology,Cancer,2,434,1617.0
+26111,MI,Internal Medicine,General Medicine Conditions,7,1091,4029.0
+26111,MI,Neurology,Neurological Disorders,4,1495,2431.0
+26111,MI,Psychiatry,Mental Health Disorders,5,268,960.0
+26113,MI,Internal Medicine,General Medicine Conditions,1,42,79.0
+26115,MI,Endocrinology,Diabetes,1,798,3131.0
+26115,MI,Internal Medicine,General Medicine Conditions,17,4532,25107.0
+26115,MI,Neurology,Neurological Disorders,3,1047,25443.0
+26115,MI,Psychiatry,Mental Health Disorders,3,68,196.0
+26115,MI,Pulmonary,Respiratory Disease,1,1405,4531.0
+26117,MI,Cardiology,Heart Disease,2,1073,2940.0
+26117,MI,Internal Medicine,General Medicine Conditions,5,643,6017.5
+26117,MI,Psychiatry,Mental Health Disorders,2,47,195.0
+26119,MI,Internal Medicine,General Medicine Conditions,2,130,352.0
+26121,MI,Cardiology,Heart Disease,11,9491,18918.0
+26121,MI,Endocrinology,Diabetes,3,462,1051.0
+26121,MI,Oncology,Cancer,3,248,72886.0
+26121,MI,Internal Medicine,General Medicine Conditions,33,4112,10836.0
+26121,MI,Neurology,Neurological Disorders,7,812,2464.0
+26121,MI,Psychiatry,Mental Health Disorders,14,419,2039.0
+26121,MI,Pulmonary,Respiratory Disease,7,1186,2950.0
+26123,MI,Internal Medicine,General Medicine Conditions,2,174,389.0
+26123,MI,Psychiatry,Mental Health Disorders,6,41,134.0
+26125,MI,Cardiology,Heart Disease,108,84783,278739.0
+26125,MI,Endocrinology,Diabetes,35,13337,49286.0
+26125,MI,Oncology,Cancer,35,14140,2487676.0
+26125,MI,Internal Medicine,General Medicine Conditions,646,144076,1134205.5
+26125,MI,Neurology,Neurological Disorders,82,23992,734182.0
+26125,MI,Psychiatry,Mental Health Disorders,156,10661,99978.0
+26125,MI,Pulmonary,Respiratory Disease,47,22455,79316.0
+26125,MI,Rheumatology,Arthritis,21,5457,643873.0
+26129,MI,Cardiology,Heart Disease,2,2029,3847.0
+26129,MI,Oncology,Cancer,1,264,1154.0
+26129,MI,Internal Medicine,General Medicine Conditions,1,0,0.0
+26133,MI,Internal Medicine,General Medicine Conditions,2,92,127.0
+26137,MI,Oncology,Cancer,1,233,585.0
+26137,MI,Internal Medicine,General Medicine Conditions,4,918,2265.0
+26137,MI,Rheumatology,Arthritis,1,108,844.0
+26139,MI,Oncology,Cancer,7,2688,838581.0
+26139,MI,Internal Medicine,General Medicine Conditions,22,3986,11092.0
+26139,MI,Neurology,Neurological Disorders,4,651,3807.0
+26139,MI,Psychiatry,Mental Health Disorders,3,59,215.0
+26139,MI,Rheumatology,Arthritis,1,91,146.0
+26141,MI,Internal Medicine,General Medicine Conditions,1,72,193.0
+26141,MI,Psychiatry,Mental Health Disorders,3,93,317.0
+26143,MI,Cardiology,Heart Disease,1,935,2618.0
+26143,MI,Internal Medicine,General Medicine Conditions,1,262,780.0
+26145,MI,Cardiology,Heart Disease,15,9748,27298.0
+26145,MI,Endocrinology,Diabetes,5,1114,4415.0
+26145,MI,Oncology,Cancer,6,1919,170424.0
+26145,MI,Internal Medicine,General Medicine Conditions,92,17880,84651.0
+26145,MI,Neurology,Neurological Disorders,12,2819,10751.0
+26145,MI,Psychiatry,Mental Health Disorders,17,747,2405.0
+26145,MI,Pulmonary,Respiratory Disease,11,1832,4955.0
+26145,MI,Rheumatology,Arthritis,4,991,28348.0
+26147,MI,Cardiology,Heart Disease,6,6886,28789.0
+26147,MI,Endocrinology,Diabetes,1,334,1172.0
+26147,MI,Oncology,Cancer,4,1813,168081.0
+26147,MI,Internal Medicine,General Medicine Conditions,35,9404,215489.0
+26147,MI,Neurology,Neurological Disorders,9,2375,45432.0
+26147,MI,Psychiatry,Mental Health Disorders,13,505,2852.0
+26147,MI,Pulmonary,Respiratory Disease,3,2188,8019.0
+26147,MI,Rheumatology,Arthritis,1,330,121581.0
+26149,MI,Cardiology,Heart Disease,1,1049,1793.0
+26149,MI,Oncology,Cancer,1,50,99.0
+26149,MI,Internal Medicine,General Medicine Conditions,4,1086,8403.0
+26149,MI,Psychiatry,Mental Health Disorders,2,58,193.0
+26151,MI,Cardiology,Heart Disease,2,1568,3962.0
+26151,MI,Oncology,Cancer,1,226,1276.0
+26151,MI,Internal Medicine,General Medicine Conditions,5,382,2307.0
+26151,MI,Psychiatry,Mental Health Disorders,2,44,106.0
+26153,MI,Cardiology,Heart Disease,1,0,0.0
+26155,MI,Oncology,Cancer,1,286,880.0
+26155,MI,Internal Medicine,General Medicine Conditions,14,2112,9247.0
+26155,MI,Neurology,Neurological Disorders,10,1349,6578.0
+26155,MI,Psychiatry,Mental Health Disorders,4,138,566.0
+26155,MI,Pulmonary,Respiratory Disease,2,564,1821.0
+26155,MI,Rheumatology,Arthritis,1,202,471.0
+26157,MI,Internal Medicine,General Medicine Conditions,10,1932,19604.0
+26157,MI,Neurology,Neurological Disorders,1,19,1642.0
+26157,MI,Psychiatry,Mental Health Disorders,8,118,439.0
+26159,MI,Internal Medicine,General Medicine Conditions,6,108,136.0
+26159,MI,Psychiatry,Mental Health Disorders,4,382,1029.0
+26161,MI,Cardiology,Heart Disease,37,23508,37554.0
+26161,MI,Endocrinology,Diabetes,54,6073,20457.0
+26161,MI,Oncology,Cancer,24,2212,8487.0
+26161,MI,Internal Medicine,General Medicine Conditions,405,55603,217102.0
+26161,MI,Neurology,Neurological Disorders,98,9073,20587.0
+26161,MI,Psychiatry,Mental Health Disorders,105,2688,11721.0
+26161,MI,Pulmonary,Respiratory Disease,65,10873,27529.0
+26161,MI,Rheumatology,Arthritis,35,3262,13066.0
+26163,MI,Cardiology,Heart Disease,170,81559,246340.0
+26163,MI,Endocrinology,Diabetes,28,6962,38012.0
+26163,MI,Oncology,Cancer,55,7111,28630.0
+26163,MI,Internal Medicine,General Medicine Conditions,665,107689,698369.0
+26163,MI,Neurology,Neurological Disorders,102,13749,141736.0
+26163,MI,Psychiatry,Mental Health Disorders,150,8028,42190.0
+26163,MI,Pulmonary,Respiratory Disease,62,13932,51574.0
+26163,MI,Rheumatology,Arthritis,15,2507,83150.0
+26165,MI,Internal Medicine,General Medicine Conditions,3,584,1425.0
+26165,MI,Psychiatry,Mental Health Disorders,1,47,171.0
+26165,MI,Pulmonary,Respiratory Disease,1,318,777.0
+37001,NC,Cardiology,Heart Disease,11,5965,16974.0
+37001,NC,Endocrinology,Diabetes,4,1098,19864.0
+37001,NC,Oncology,Cancer,8,1345,4211.0
+37001,NC,Internal Medicine,General Medicine Conditions,44,9595,65798.0
+37001,NC,Neurology,Neurological Disorders,3,1039,3817.0
+37001,NC,Psychiatry,Mental Health Disorders,13,655,4651.0
+37001,NC,Pulmonary,Respiratory Disease,3,1650,8993.0
+37001,NC,Rheumatology,Arthritis,2,577,117976.0
+37005,NC,Cardiology,Heart Disease,1,245,369.0
+37005,NC,Oncology,Cancer,1,242,2222.0
+37005,NC,Internal Medicine,General Medicine Conditions,1,370,2037.0
+37007,NC,Internal Medicine,General Medicine Conditions,1,132,194.0
+37009,NC,Cardiology,Heart Disease,4,3753,9499.0
+37009,NC,Oncology,Cancer,1,18,22.0
+37009,NC,Internal Medicine,General Medicine Conditions,3,472,2150.0
+37009,NC,Psychiatry,Mental Health Disorders,2,90,299.0
+37011,NC,Internal Medicine,General Medicine Conditions,2,274,1273.0
+37011,NC,Psychiatry,Mental Health Disorders,4,154,534.0
+37013,NC,Oncology,Cancer,1,0,0.0
+37013,NC,Internal Medicine,General Medicine Conditions,9,2853,29698.0
+37013,NC,Psychiatry,Mental Health Disorders,4,154,581.0
+37013,NC,Pulmonary,Respiratory Disease,1,257,1124.0
+37015,NC,Internal Medicine,General Medicine Conditions,3,406,2358.0
+37017,NC,Internal Medicine,General Medicine Conditions,1,12,125.0
+37019,NC,Cardiology,Heart Disease,1,327,1517.0
+37019,NC,Endocrinology,Diabetes,1,577,1503.0
+37019,NC,Internal Medicine,General Medicine Conditions,14,5010,74259.0
+37019,NC,Neurology,Neurological Disorders,1,349,2038.0
+37019,NC,Psychiatry,Mental Health Disorders,3,59,157.0
+37019,NC,Pulmonary,Respiratory Disease,2,331,3795.0
+37019,NC,Rheumatology,Arthritis,1,696,419241.0
+37021,NC,Cardiology,Heart Disease,21,20509,45411.0
+37021,NC,Endocrinology,Diabetes,8,3397,59271.0
+37021,NC,Oncology,Cancer,11,8902,1200745.0
+37021,NC,Internal Medicine,General Medicine Conditions,130,26245,572235.0
+37021,NC,Neurology,Neurological Disorders,11,4605,313795.0
+37021,NC,Psychiatry,Mental Health Disorders,40,1478,9934.0
+37021,NC,Pulmonary,Respiratory Disease,19,7070,18731.0
+37021,NC,Rheumatology,Arthritis,6,2916,1029586.0
+37023,NC,Cardiology,Heart Disease,4,4464,9011.0
+37023,NC,Oncology,Cancer,1,184,368.0
+37023,NC,Internal Medicine,General Medicine Conditions,27,4284,21730.0
+37023,NC,Neurology,Neurological Disorders,2,715,2423.0
+37023,NC,Psychiatry,Mental Health Disorders,4,133,3132.0
+37023,NC,Pulmonary,Respiratory Disease,1,127,305.0
+37025,NC,Cardiology,Heart Disease,29,25846,167924.0
+37025,NC,Endocrinology,Diabetes,6,1691,23528.0
+37025,NC,Oncology,Cancer,8,1574,3966.0
+37025,NC,Internal Medicine,General Medicine Conditions,50,14205,66304.0
+37025,NC,Neurology,Neurological Disorders,10,2172,89308.0
+37025,NC,Psychiatry,Mental Health Disorders,19,1196,4206.0
+37025,NC,Pulmonary,Respiratory Disease,7,1983,7544.0
+37025,NC,Rheumatology,Arthritis,3,809,133865.0
+37027,NC,Cardiology,Heart Disease,6,6790,30106.0
+37027,NC,Oncology,Cancer,1,412,1595.0
+37027,NC,Internal Medicine,General Medicine Conditions,10,1202,3339.0
+37027,NC,Neurology,Neurological Disorders,1,0,0.0
+37027,NC,Psychiatry,Mental Health Disorders,1,11,19.0
+37027,NC,Pulmonary,Respiratory Disease,3,756,2456.0
+37029,NC,Internal Medicine,General Medicine Conditions,1,626,2736.0
+37031,NC,Cardiology,Heart Disease,3,788,1433.0
+37031,NC,Endocrinology,Diabetes,1,1185,24923.0
+37031,NC,Oncology,Cancer,2,56,56.0
+37031,NC,Internal Medicine,General Medicine Conditions,13,2948,18890.0
+37031,NC,Pulmonary,Respiratory Disease,1,867,2504.0
+37031,NC,Rheumatology,Arthritis,1,85,411.0
+37033,NC,Internal Medicine,General Medicine Conditions,1,165,235.0
+37033,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37035,NC,Cardiology,Heart Disease,12,7835,19405.0
+37035,NC,Endocrinology,Diabetes,3,709,9029.0
+37035,NC,Oncology,Cancer,2,1028,177216.0
+37035,NC,Internal Medicine,General Medicine Conditions,35,7489,158837.0
+37035,NC,Neurology,Neurological Disorders,4,1004,2331.0
+37035,NC,Psychiatry,Mental Health Disorders,12,674,3928.0
+37035,NC,Pulmonary,Respiratory Disease,9,2289,7732.0
+37035,NC,Rheumatology,Arthritis,4,1007,397141.0
+37037,NC,Endocrinology,Diabetes,1,266,577.0
+37037,NC,Internal Medicine,General Medicine Conditions,6,1244,6549.0
+37037,NC,Psychiatry,Mental Health Disorders,4,85,813.0
+37037,NC,Pulmonary,Respiratory Disease,1,178,1223.0
+37039,NC,Cardiology,Heart Disease,3,1158,5393.0
+37039,NC,Internal Medicine,General Medicine Conditions,5,501,2776.5
+37041,NC,Internal Medicine,General Medicine Conditions,10,1595,5201.0
+37041,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37043,NC,Psychiatry,Mental Health Disorders,1,22,23.0
+37045,NC,Cardiology,Heart Disease,2,3288,14912.0
+37045,NC,Endocrinology,Diabetes,2,239,528.0
+37045,NC,Oncology,Cancer,1,63,69.0
+37045,NC,Internal Medicine,General Medicine Conditions,14,3144,116380.0
+37045,NC,Psychiatry,Mental Health Disorders,1,167,388.0
+37045,NC,Pulmonary,Respiratory Disease,1,12,27.0
+37047,NC,Endocrinology,Diabetes,1,24,37.0
+37047,NC,Oncology,Cancer,1,288,710.0
+37047,NC,Internal Medicine,General Medicine Conditions,7,2122,43423.0
+37047,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37049,NC,Cardiology,Heart Disease,10,12870,61112.0
+37049,NC,Endocrinology,Diabetes,1,1639,27395.0
+37049,NC,Internal Medicine,General Medicine Conditions,17,8212,243936.0
+37049,NC,Neurology,Neurological Disorders,3,1118,40739.0
+37049,NC,Psychiatry,Mental Health Disorders,4,373,2068.0
+37049,NC,Pulmonary,Respiratory Disease,2,1922,27414.0
+37049,NC,Rheumatology,Arthritis,2,1808,47061.0
+37051,NC,Cardiology,Heart Disease,17,10530,49191.0
+37051,NC,Endocrinology,Diabetes,4,1736,10023.0
+37051,NC,Oncology,Cancer,5,954,39610.0
+37051,NC,Internal Medicine,General Medicine Conditions,94,18952,163879.0
+37051,NC,Neurology,Neurological Disorders,14,2643,55292.0
+37051,NC,Psychiatry,Mental Health Disorders,20,1079,3344.0
+37051,NC,Pulmonary,Respiratory Disease,6,1886,18076.0
+37051,NC,Rheumatology,Arthritis,2,718,229758.0
+37053,NC,Rheumatology,Arthritis,1,700,2224.0
+37055,NC,Oncology,Cancer,2,330,683.0
+37055,NC,Internal Medicine,General Medicine Conditions,10,3404,14728.0
+37057,NC,Cardiology,Heart Disease,3,274,378.0
+37057,NC,Endocrinology,Diabetes,1,138,367.0
+37057,NC,Oncology,Cancer,5,777,4089.0
+37057,NC,Internal Medicine,General Medicine Conditions,14,2197,10533.0
+37057,NC,Neurology,Neurological Disorders,1,183,222.0
+37057,NC,Psychiatry,Mental Health Disorders,11,382,1264.0
+37057,NC,Pulmonary,Respiratory Disease,3,545,824.0
+37059,NC,Cardiology,Heart Disease,1,1782,2929.0
+37059,NC,Internal Medicine,General Medicine Conditions,2,346,6464.0
+37059,NC,Neurology,Neurological Disorders,3,1006,2364.0
+37061,NC,Oncology,Cancer,1,144,391.0
+37061,NC,Internal Medicine,General Medicine Conditions,5,749,2423.0
+37061,NC,Psychiatry,Mental Health Disorders,2,146,766.0
+37063,NC,Cardiology,Heart Disease,42,27315,76010.0
+37063,NC,Endocrinology,Diabetes,12,1796,4230.0
+37063,NC,Oncology,Cancer,24,2596,10123.0
+37063,NC,Internal Medicine,General Medicine Conditions,273,41502,272821.0
+37063,NC,Neurology,Neurological Disorders,56,10917,152079.0
+37063,NC,Psychiatry,Mental Health Disorders,64,3298,15101.0
+37063,NC,Pulmonary,Respiratory Disease,28,7715,20126.0
+37063,NC,Rheumatology,Arthritis,20,1922,51119.0
+37065,NC,Cardiology,Heart Disease,5,4207,9880.0
+37065,NC,Internal Medicine,General Medicine Conditions,16,1922,11809.0
+37065,NC,Neurology,Neurological Disorders,3,1259,2769.0
+37065,NC,Psychiatry,Mental Health Disorders,1,33,117.0
+37065,NC,Pulmonary,Respiratory Disease,1,528,1853.0
+37067,NC,Cardiology,Heart Disease,9,8490,18062.0
+37067,NC,Endocrinology,Diabetes,13,2708,9146.0
+37067,NC,Oncology,Cancer,10,1555,5014.0
+37067,NC,Internal Medicine,General Medicine Conditions,106,15949,64335.0
+37067,NC,Neurology,Neurological Disorders,50,8543,120027.0
+37067,NC,Psychiatry,Mental Health Disorders,49,2091,10667.0
+37067,NC,Pulmonary,Respiratory Disease,7,3115,53500.0
+37067,NC,Rheumatology,Arthritis,8,1677,37824.0
+37069,NC,Cardiology,Heart Disease,1,1287,4017.0
+37069,NC,Internal Medicine,General Medicine Conditions,5,898,6134.0
+37069,NC,Neurology,Neurological Disorders,4,603,1443.0
+37069,NC,Psychiatry,Mental Health Disorders,3,142,633.0
+37069,NC,Rheumatology,Arthritis,1,52,150.0
+37071,NC,Cardiology,Heart Disease,12,7462,17250.0
+37071,NC,Endocrinology,Diabetes,4,1207,10869.0
+37071,NC,Oncology,Cancer,5,957,3386.0
+37071,NC,Internal Medicine,General Medicine Conditions,76,14795,105778.0
+37071,NC,Neurology,Neurological Disorders,14,2896,26333.0
+37071,NC,Psychiatry,Mental Health Disorders,9,633,1930.0
+37071,NC,Pulmonary,Respiratory Disease,11,3111,11068.0
+37071,NC,Rheumatology,Arthritis,5,739,90994.0
+37077,NC,Cardiology,Heart Disease,2,1163,6184.0
+37077,NC,Internal Medicine,General Medicine Conditions,11,2072,7261.0
+37077,NC,Psychiatry,Mental Health Disorders,2,59,726.0
+37081,NC,Cardiology,Heart Disease,63,33120,75968.0
+37081,NC,Endocrinology,Diabetes,11,2112,26235.0
+37081,NC,Oncology,Cancer,9,1930,5820.0
+37081,NC,Internal Medicine,General Medicine Conditions,195,28850,274495.5
+37081,NC,Neurology,Neurological Disorders,31,4773,134656.0
+37081,NC,Psychiatry,Mental Health Disorders,32,999,4579.0
+37081,NC,Pulmonary,Respiratory Disease,23,3997,155970.0
+37081,NC,Rheumatology,Arthritis,11,4961,668658.0
+37083,NC,Cardiology,Heart Disease,3,3048,8636.0
+37083,NC,Oncology,Cancer,1,194,508.0
+37083,NC,Internal Medicine,General Medicine Conditions,11,1450,4017.0
+37083,NC,Psychiatry,Mental Health Disorders,1,147,1536.0
+37083,NC,Pulmonary,Respiratory Disease,1,237,1164.0
+37085,NC,Oncology,Cancer,1,209,593.0
+37085,NC,Internal Medicine,General Medicine Conditions,17,3146,22973.0
+37085,NC,Neurology,Neurological Disorders,2,548,1248.0
+37085,NC,Psychiatry,Mental Health Disorders,1,60,199.0
+37085,NC,Rheumatology,Arthritis,1,77,271.0
+37087,NC,Cardiology,Heart Disease,4,3360,8145.0
+37087,NC,Oncology,Cancer,2,366,1135.0
+37087,NC,Internal Medicine,General Medicine Conditions,14,3035,9148.0
+37087,NC,Psychiatry,Mental Health Disorders,3,46,207.0
+37087,NC,Pulmonary,Respiratory Disease,1,437,1158.0
+37087,NC,Rheumatology,Arthritis,1,1105,2141.0
+37089,NC,Cardiology,Heart Disease,7,6264,14144.0
+37089,NC,Endocrinology,Diabetes,6,488,2795.0
+37089,NC,Oncology,Cancer,4,1488,4886.0
+37089,NC,Internal Medicine,General Medicine Conditions,38,9029,46566.0
+37089,NC,Neurology,Neurological Disorders,5,1964,6505.0
+37089,NC,Psychiatry,Mental Health Disorders,4,419,2619.0
+37089,NC,Pulmonary,Respiratory Disease,8,2776,6730.0
+37089,NC,Rheumatology,Arthritis,6,1606,137683.0
+37091,NC,Oncology,Cancer,1,801,153165.0
+37091,NC,Internal Medicine,General Medicine Conditions,9,4128,55235.0
+37091,NC,Psychiatry,Mental Health Disorders,1,199,1147.0
+37091,NC,Rheumatology,Arthritis,1,12,105.0
+37093,NC,Internal Medicine,General Medicine Conditions,8,1133,4206.0
+37093,NC,Psychiatry,Mental Health Disorders,2,66,75.0
+37097,NC,Cardiology,Heart Disease,12,10138,41197.0
+37097,NC,Endocrinology,Diabetes,3,1151,17689.0
+37097,NC,Oncology,Cancer,6,1180,265019.0
+37097,NC,Internal Medicine,General Medicine Conditions,32,7638,116205.0
+37097,NC,Neurology,Neurological Disorders,6,2251,165381.0
+37097,NC,Psychiatry,Mental Health Disorders,6,411,3037.0
+37097,NC,Pulmonary,Respiratory Disease,4,2493,31985.0
+37097,NC,Rheumatology,Arthritis,3,1740,508864.0
+37099,NC,Cardiology,Heart Disease,3,2190,4115.0
+37099,NC,Endocrinology,Diabetes,1,140,459.0
+37099,NC,Internal Medicine,General Medicine Conditions,11,3183,22372.0
+37099,NC,Pulmonary,Respiratory Disease,1,316,640.0
+37101,NC,Cardiology,Heart Disease,8,9613,42353.0
+37101,NC,Endocrinology,Diabetes,1,123,1065.0
+37101,NC,Oncology,Cancer,2,425,882.0
+37101,NC,Internal Medicine,General Medicine Conditions,19,4990,94683.0
+37101,NC,Neurology,Neurological Disorders,1,462,993.0
+37101,NC,Psychiatry,Mental Health Disorders,6,531,2334.0
+37101,NC,Pulmonary,Respiratory Disease,1,534,2756.0
+37101,NC,Rheumatology,Arthritis,2,270,2152.0
+37103,NC,Cardiology,Heart Disease,4,2400,6467.0
+37103,NC,Endocrinology,Diabetes,2,469,7118.0
+37103,NC,Oncology,Cancer,3,1723,6244.0
+37103,NC,Internal Medicine,General Medicine Conditions,11,4587,142037.0
+37103,NC,Neurology,Neurological Disorders,2,982,10123.0
+37103,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37103,NC,Pulmonary,Respiratory Disease,2,1433,98042.0
+37103,NC,Rheumatology,Arthritis,3,1478,281081.0
+37105,NC,Cardiology,Heart Disease,5,2264,19522.0
+37105,NC,Endocrinology,Diabetes,1,1102,43101.0
+37105,NC,Oncology,Cancer,1,115,12081.0
+37105,NC,Internal Medicine,General Medicine Conditions,10,1619,11775.0
+37105,NC,Neurology,Neurological Disorders,1,382,1031.0
+37105,NC,Psychiatry,Mental Health Disorders,1,25,240.0
+37105,NC,Pulmonary,Respiratory Disease,1,49,274.0
+37107,NC,Cardiology,Heart Disease,5,5002,25071.0
+37107,NC,Endocrinology,Diabetes,1,318,13057.0
+37107,NC,Oncology,Cancer,1,396,21850.0
+37107,NC,Internal Medicine,General Medicine Conditions,25,6938,147051.0
+37107,NC,Neurology,Neurological Disorders,1,312,476.0
+37107,NC,Psychiatry,Mental Health Disorders,3,55,374.0
+37107,NC,Pulmonary,Respiratory Disease,2,642,2076.0
+37109,NC,Cardiology,Heart Disease,3,3522,12268.0
+37109,NC,Oncology,Cancer,4,806,35172.0
+37109,NC,Internal Medicine,General Medicine Conditions,7,2473,15496.0
+37109,NC,Psychiatry,Mental Health Disorders,2,116,440.0
+37109,NC,Pulmonary,Respiratory Disease,1,215,981.0
+37111,NC,Cardiology,Heart Disease,2,3484,6363.0
+37111,NC,Internal Medicine,General Medicine Conditions,14,4375,54515.0
+37111,NC,Neurology,Neurological Disorders,2,1025,8492.0
+37111,NC,Rheumatology,Arthritis,1,468,131776.0
+37113,NC,Internal Medicine,General Medicine Conditions,21,3333,11273.0
+37115,NC,Internal Medicine,General Medicine Conditions,3,553,6409.0
+37117,NC,Psychiatry,Mental Health Disorders,1,112,494.0
+37119,NC,Cardiology,Heart Disease,84,57789,248063.0
+37119,NC,Endocrinology,Diabetes,29,7359,48349.0
+37119,NC,Oncology,Cancer,74,11739,773620.0
+37119,NC,Internal Medicine,General Medicine Conditions,327,66417,548136.0
+37119,NC,Neurology,Neurological Disorders,90,17888,202295.0
+37119,NC,Psychiatry,Mental Health Disorders,120,4981,17985.0
+37119,NC,Pulmonary,Respiratory Disease,64,16564,53229.0
+37119,NC,Rheumatology,Arthritis,29,10772,1631956.0
+37121,NC,Cardiology,Heart Disease,1,858,1728.0
+37123,NC,Cardiology,Heart Disease,1,0,0.0
+37123,NC,Internal Medicine,General Medicine Conditions,2,419,1036.0
+37125,NC,Cardiology,Heart Disease,4,2647,8341.0
+37125,NC,Endocrinology,Diabetes,2,854,20807.0
+37125,NC,Oncology,Cancer,5,1277,4715.0
+37125,NC,Internal Medicine,General Medicine Conditions,42,20256,331162.0
+37125,NC,Neurology,Neurological Disorders,12,4140,79926.0
+37125,NC,Psychiatry,Mental Health Disorders,14,781,3044.0
+37125,NC,Pulmonary,Respiratory Disease,5,2866,22158.0
+37125,NC,Rheumatology,Arthritis,2,587,244785.0
+37127,NC,Cardiology,Heart Disease,1,197,1712.0
+37127,NC,Endocrinology,Diabetes,2,1243,22144.0
+37127,NC,Oncology,Cancer,3,673,1958.0
+37127,NC,Internal Medicine,General Medicine Conditions,30,7673,37789.0
+37127,NC,Psychiatry,Mental Health Disorders,3,38,86.0
+37127,NC,Pulmonary,Respiratory Disease,1,700,3365.0
+37129,NC,Cardiology,Heart Disease,34,46322,128746.0
+37129,NC,Endocrinology,Diabetes,6,2783,54356.0
+37129,NC,Oncology,Cancer,6,2280,62232.0
+37129,NC,Internal Medicine,General Medicine Conditions,79,28239,438096.0
+37129,NC,Neurology,Neurological Disorders,20,6924,123742.0
+37129,NC,Psychiatry,Mental Health Disorders,25,1730,11413.0
+37129,NC,Pulmonary,Respiratory Disease,14,7804,28572.0
+37129,NC,Rheumatology,Arthritis,8,3947,970142.0
+37131,NC,Internal Medicine,General Medicine Conditions,1,111,286.0
+37131,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37133,NC,Cardiology,Heart Disease,5,5692,15586.0
+37133,NC,Endocrinology,Diabetes,3,1905,54214.0
+37133,NC,Oncology,Cancer,3,2408,732293.0
+37133,NC,Internal Medicine,General Medicine Conditions,35,9628,126309.0
+37133,NC,Neurology,Neurological Disorders,1,52,244.0
+37133,NC,Psychiatry,Mental Health Disorders,6,361,1120.0
+37133,NC,Pulmonary,Respiratory Disease,2,723,2700.0
+37135,NC,Cardiology,Heart Disease,30,19093,38207.0
+37135,NC,Endocrinology,Diabetes,21,2627,6855.0
+37135,NC,Oncology,Cancer,30,2851,11019.0
+37135,NC,Internal Medicine,General Medicine Conditions,90,11875,60097.0
+37135,NC,Neurology,Neurological Disorders,58,6428,44887.0
+37135,NC,Psychiatry,Mental Health Disorders,111,3016,13778.0
+37135,NC,Pulmonary,Respiratory Disease,36,4918,13956.0
+37135,NC,Rheumatology,Arthritis,15,1468,5363.0
+37137,NC,Internal Medicine,General Medicine Conditions,1,316,5087.0
+37139,NC,Cardiology,Heart Disease,4,8007,29439.0
+37139,NC,Endocrinology,Diabetes,1,432,851.0
+37139,NC,Oncology,Cancer,6,5496,832326.0
+37139,NC,Internal Medicine,General Medicine Conditions,44,12591,47585.0
+37139,NC,Neurology,Neurological Disorders,10,2860,4485.0
+37139,NC,Pulmonary,Respiratory Disease,3,2353,6076.0
+37141,NC,Internal Medicine,General Medicine Conditions,4,912,10691.0
+37145,NC,Cardiology,Heart Disease,1,27,36.0
+37145,NC,Internal Medicine,General Medicine Conditions,5,1225,12012.5
+37145,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37147,NC,Cardiology,Heart Disease,19,24130,141150.0
+37147,NC,Endocrinology,Diabetes,8,4324,143003.0
+37147,NC,Oncology,Cancer,6,2781,394802.0
+37147,NC,Internal Medicine,General Medicine Conditions,77,16493,150050.5
+37147,NC,Neurology,Neurological Disorders,16,2922,19082.0
+37147,NC,Psychiatry,Mental Health Disorders,20,1676,6451.0
+37147,NC,Pulmonary,Respiratory Disease,18,7666,24074.0
+37147,NC,Rheumatology,Arthritis,4,2792,327706.3
+37149,NC,Cardiology,Heart Disease,2,1529,3716.0
+37149,NC,Internal Medicine,General Medicine Conditions,5,959,4178.0
+37149,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37151,NC,Cardiology,Heart Disease,5,3067,6557.0
+37151,NC,Oncology,Cancer,2,287,802.0
+37151,NC,Internal Medicine,General Medicine Conditions,13,1698,14728.0
+37151,NC,Psychiatry,Mental Health Disorders,2,36,109.0
+37151,NC,Pulmonary,Respiratory Disease,1,430,6976.0
+37153,NC,Cardiology,Heart Disease,5,4106,18537.0
+37153,NC,Internal Medicine,General Medicine Conditions,6,1803,7694.0
+37155,NC,Cardiology,Heart Disease,8,3886,10896.0
+37155,NC,Oncology,Cancer,1,0,0.0
+37155,NC,Internal Medicine,General Medicine Conditions,16,2696,8105.0
+37155,NC,Neurology,Neurological Disorders,2,349,3634.0
+37155,NC,Psychiatry,Mental Health Disorders,3,0,0.0
+37155,NC,Pulmonary,Respiratory Disease,2,455,11908.0
+37157,NC,Cardiology,Heart Disease,2,1257,2739.0
+37157,NC,Endocrinology,Diabetes,1,223,925.0
+37157,NC,Oncology,Cancer,1,67,230.0
+37157,NC,Internal Medicine,General Medicine Conditions,15,3424,29907.0
+37157,NC,Psychiatry,Mental Health Disorders,1,39,134.0
+37159,NC,Oncology,Cancer,1,169,654.0
+37159,NC,Internal Medicine,General Medicine Conditions,12,3242,32927.0
+37159,NC,Neurology,Neurological Disorders,6,1932,47859.0
+37159,NC,Psychiatry,Mental Health Disorders,6,372,2557.0
+37159,NC,Pulmonary,Respiratory Disease,1,360,1034.0
+37159,NC,Rheumatology,Arthritis,2,326,113361.0
+37161,NC,Cardiology,Heart Disease,1,324,623.0
+37161,NC,Oncology,Cancer,1,167,517.0
+37161,NC,Internal Medicine,General Medicine Conditions,9,1639,16255.0
+37161,NC,Neurology,Neurological Disorders,1,569,2793.0
+37161,NC,Psychiatry,Mental Health Disorders,1,35,225.0
+37163,NC,Cardiology,Heart Disease,1,419,910.0
+37163,NC,Endocrinology,Diabetes,1,0,0.0
+37163,NC,Internal Medicine,General Medicine Conditions,20,2472,11061.0
+37163,NC,Psychiatry,Mental Health Disorders,1,12,59.0
+37165,NC,Cardiology,Heart Disease,2,324,1732.0
+37165,NC,Oncology,Cancer,2,204,466.0
+37165,NC,Internal Medicine,General Medicine Conditions,6,1377,3932.0
+37165,NC,Psychiatry,Mental Health Disorders,1,24,121.0
+37165,NC,Pulmonary,Respiratory Disease,1,433,2879.0
+37167,NC,Oncology,Cancer,1,117,335.0
+37167,NC,Internal Medicine,General Medicine Conditions,4,1229,13034.0
+37167,NC,Psychiatry,Mental Health Disorders,5,242,966.0
+37167,NC,Pulmonary,Respiratory Disease,1,396,1231.0
+37169,NC,Internal Medicine,General Medicine Conditions,2,131,588.0
+37171,NC,Cardiology,Heart Disease,2,1215,6556.0
+37171,NC,Endocrinology,Diabetes,1,215,903.0
+37171,NC,Internal Medicine,General Medicine Conditions,20,4222,16197.0
+37171,NC,Neurology,Neurological Disorders,1,382,778.0
+37171,NC,Psychiatry,Mental Health Disorders,3,100,701.0
+37173,NC,Cardiology,Heart Disease,1,1487,2490.0
+37173,NC,Internal Medicine,General Medicine Conditions,1,0,0.0
+37173,NC,Psychiatry,Mental Health Disorders,1,18,46.0
+37175,NC,Cardiology,Heart Disease,1,601,2300.0
+37175,NC,Internal Medicine,General Medicine Conditions,6,1083,4106.0
+37175,NC,Neurology,Neurological Disorders,4,1402,11532.0
+37175,NC,Psychiatry,Mental Health Disorders,2,103,289.0
+37177,NC,Psychiatry,Mental Health Disorders,1,103,384.0
+37179,NC,Cardiology,Heart Disease,4,3991,14395.0
+37179,NC,Endocrinology,Diabetes,2,638,15337.0
+37179,NC,Oncology,Cancer,5,855,2365.0
+37179,NC,Internal Medicine,General Medicine Conditions,10,2276,12069.0
+37179,NC,Neurology,Neurological Disorders,4,1087,11494.0
+37179,NC,Psychiatry,Mental Health Disorders,3,188,860.0
+37179,NC,Pulmonary,Respiratory Disease,5,2143,8394.0
+37181,NC,Cardiology,Heart Disease,3,1114,3793.0
+37181,NC,Oncology,Cancer,1,178,329.0
+37181,NC,Internal Medicine,General Medicine Conditions,5,188,1066.0
+37181,NC,Neurology,Neurological Disorders,1,444,821.0
+37181,NC,Psychiatry,Mental Health Disorders,2,31,114.0
+37183,NC,Cardiology,Heart Disease,73,76691,234529.0
+37183,NC,Endocrinology,Diabetes,21,10046,70948.0
+37183,NC,Oncology,Cancer,30,7524,342042.5
+37183,NC,Internal Medicine,General Medicine Conditions,306,49825,375560.0
+37183,NC,Neurology,Neurological Disorders,36,10480,598884.0
+37183,NC,Psychiatry,Mental Health Disorders,99,3638,23493.0
+37183,NC,Pulmonary,Respiratory Disease,29,11520,41511.0
+37183,NC,Rheumatology,Arthritis,19,4240,972457.0
+37187,NC,Internal Medicine,General Medicine Conditions,1,116,297.0
+37189,NC,Cardiology,Heart Disease,1,884,2252.0
+37189,NC,Oncology,Cancer,1,269,440.0
+37189,NC,Internal Medicine,General Medicine Conditions,12,3003,12385.0
+37189,NC,Neurology,Neurological Disorders,3,1730,9777.0
+37189,NC,Psychiatry,Mental Health Disorders,1,0,0.0
+37189,NC,Pulmonary,Respiratory Disease,3,658,5829.0
+37189,NC,Rheumatology,Arthritis,2,729,160119.0
+37191,NC,Cardiology,Heart Disease,1,1518,9946.0
+37191,NC,Endocrinology,Diabetes,2,279,1268.0
+37191,NC,Oncology,Cancer,3,3540,747919.0
+37191,NC,Internal Medicine,General Medicine Conditions,29,7896,35442.0
+37191,NC,Neurology,Neurological Disorders,1,570,985.0
+37191,NC,Psychiatry,Mental Health Disorders,12,1087,6778.0
+37191,NC,Pulmonary,Respiratory Disease,4,1121,2618.0
+37191,NC,Rheumatology,Arthritis,1,402,212194.0
+37193,NC,Cardiology,Heart Disease,4,1138,1826.0
+37193,NC,Internal Medicine,General Medicine Conditions,10,1933,15392.0
+37193,NC,Neurology,Neurological Disorders,3,250,467.0
+37193,NC,Psychiatry,Mental Health Disorders,1,476,2361.0
+37193,NC,Pulmonary,Respiratory Disease,1,306,1767.0
+37195,NC,Cardiology,Heart Disease,5,3139,23717.0
+37195,NC,Endocrinology,Diabetes,1,29,100.0
+37195,NC,Oncology,Cancer,3,1415,321848.0
+37195,NC,Internal Medicine,General Medicine Conditions,39,12873,252777.5
+37195,NC,Neurology,Neurological Disorders,8,2313,33826.0
+37195,NC,Psychiatry,Mental Health Disorders,3,317,1470.0
+37195,NC,Pulmonary,Respiratory Disease,2,825,2893.0
+37195,NC,Rheumatology,Arthritis,2,733,261505.0
+37199,NC,Internal Medicine,General Medicine Conditions,1,19,49.0
+48001,TX,Cardiology,Heart Disease,3,1450,7273.0
+48001,TX,Endocrinology,Diabetes,1,629,36254.0
+48001,TX,Oncology,Cancer,1,598,167327.0
+48001,TX,Internal Medicine,General Medicine Conditions,9,1861,19088.0
+48001,TX,Psychiatry,Mental Health Disorders,2,77,1006.0
+48005,TX,Cardiology,Heart Disease,2,1916,27897.0
+48005,TX,Endocrinology,Diabetes,1,472,2154.0
+48005,TX,Oncology,Cancer,3,835,367404.0
+48005,TX,Internal Medicine,General Medicine Conditions,30,6241,40821.0
+48005,TX,Neurology,Neurological Disorders,3,1526,8146.0
+48005,TX,Psychiatry,Mental Health Disorders,4,263,2862.0
+48005,TX,Pulmonary,Respiratory Disease,2,1680,5793.0
+48005,TX,Rheumatology,Arthritis,1,371,74788.0
+48007,TX,Internal Medicine,General Medicine Conditions,2,2003,12983.0
+48007,TX,Psychiatry,Mental Health Disorders,1,57,390.0
+48009,TX,Endocrinology,Diabetes,3,1486,7645.0
+48009,TX,Internal Medicine,General Medicine Conditions,4,1054,5318.0
+48009,TX,Neurology,Neurological Disorders,2,352,1154.0
+48009,TX,Rheumatology,Arthritis,1,495,2153.0
+48013,TX,Cardiology,Heart Disease,1,770,3811.0
+48013,TX,Internal Medicine,General Medicine Conditions,1,72,591.0
+48013,TX,Psychiatry,Mental Health Disorders,6,269,2256.0
+48013,TX,Pulmonary,Respiratory Disease,1,279,967.0
+48015,TX,Cardiology,Heart Disease,1,1097,6969.0
+48015,TX,Internal Medicine,General Medicine Conditions,2,749,11624.0
+48019,TX,Internal Medicine,General Medicine Conditions,3,1291,7863.0
+48021,TX,Oncology,Cancer,3,1446,372679.0
+48021,TX,Internal Medicine,General Medicine Conditions,12,1550,8769.0
+48021,TX,Psychiatry,Mental Health Disorders,2,148,401.0
+48021,TX,Rheumatology,Arthritis,2,279,63006.0
+48023,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48025,TX,Cardiology,Heart Disease,1,502,1169.0
+48025,TX,Internal Medicine,General Medicine Conditions,4,911,4439.0
+48025,TX,Pulmonary,Respiratory Disease,1,869,4096.0
+48027,TX,Cardiology,Heart Disease,2,2069,4222.0
+48027,TX,Endocrinology,Diabetes,1,172,547.0
+48027,TX,Oncology,Cancer,1,66,345.0
+48027,TX,Internal Medicine,General Medicine Conditions,18,4003,34415.0
+48027,TX,Neurology,Neurological Disorders,2,354,3633.0
+48027,TX,Psychiatry,Mental Health Disorders,13,438,2396.0
+48027,TX,Pulmonary,Respiratory Disease,1,480,1027.0
+48029,TX,Cardiology,Heart Disease,113,56297,228158.0
+48029,TX,Endocrinology,Diabetes,39,13634,206135.0
+48029,TX,Oncology,Cancer,53,14528,3242126.0
+48029,TX,Internal Medicine,General Medicine Conditions,529,105618,969649.0
+48029,TX,Neurology,Neurological Disorders,97,18939,273215.0
+48029,TX,Psychiatry,Mental Health Disorders,129,4289,30068.0
+48029,TX,Pulmonary,Respiratory Disease,82,27247,104553.0
+48029,TX,Rheumatology,Arthritis,33,10308,2490627.2
+48035,TX,Cardiology,Heart Disease,1,975,3937.0
+48035,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48035,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48037,TX,Cardiology,Heart Disease,5,7436,22895.0
+48037,TX,Endocrinology,Diabetes,1,576,1255.0
+48037,TX,Oncology,Cancer,1,355,840.0
+48037,TX,Internal Medicine,General Medicine Conditions,20,7727,147245.5
+48037,TX,Neurology,Neurological Disorders,1,329,540.0
+48037,TX,Psychiatry,Mental Health Disorders,3,477,1659.0
+48037,TX,Pulmonary,Respiratory Disease,1,369,4133.0
+48037,TX,Rheumatology,Arthritis,1,319,95156.0
+48039,TX,Cardiology,Heart Disease,12,5632,34919.0
+48039,TX,Endocrinology,Diabetes,3,926,6185.0
+48039,TX,Oncology,Cancer,4,426,288936.5
+48039,TX,Internal Medicine,General Medicine Conditions,70,13889,88771.0
+48039,TX,Neurology,Neurological Disorders,20,3783,36494.0
+48039,TX,Psychiatry,Mental Health Disorders,12,802,4668.0
+48039,TX,Pulmonary,Respiratory Disease,4,822,2297.0
+48039,TX,Rheumatology,Arthritis,4,355,51309.0
+48041,TX,Cardiology,Heart Disease,9,7373,72661.0
+48041,TX,Endocrinology,Diabetes,2,446,1723.0
+48041,TX,Oncology,Cancer,2,1033,292460.0
+48041,TX,Internal Medicine,General Medicine Conditions,59,14559,248250.0
+48041,TX,Neurology,Neurological Disorders,1,376,2920.0
+48041,TX,Psychiatry,Mental Health Disorders,8,193,1278.0
+48041,TX,Pulmonary,Respiratory Disease,6,2581,5337.0
+48041,TX,Rheumatology,Arthritis,2,921,549291.5
+48049,TX,Cardiology,Heart Disease,1,2229,6964.0
+48049,TX,Oncology,Cancer,2,207,504.0
+48049,TX,Internal Medicine,General Medicine Conditions,15,5251,25844.0
+48051,TX,Cardiology,Heart Disease,3,3341,7267.0
+48051,TX,Endocrinology,Diabetes,1,0,0.0
+48051,TX,Oncology,Cancer,2,571,1918.0
+48051,TX,Internal Medicine,General Medicine Conditions,6,1574,5234.0
+48051,TX,Pulmonary,Respiratory Disease,2,777,1669.0
+48051,TX,Rheumatology,Arthritis,2,141,329.0
+48053,TX,Cardiology,Heart Disease,2,3120,7827.0
+48053,TX,Endocrinology,Diabetes,2,1049,2058.0
+48053,TX,Oncology,Cancer,2,799,3768.0
+48053,TX,Internal Medicine,General Medicine Conditions,16,3941,14972.0
+48053,TX,Neurology,Neurological Disorders,5,1388,2832.0
+48053,TX,Psychiatry,Mental Health Disorders,2,27,710.0
+48053,TX,Rheumatology,Arthritis,1,150,583.0
+48055,TX,Internal Medicine,General Medicine Conditions,5,684,2181.0
+48057,TX,Internal Medicine,General Medicine Conditions,2,275,1808.0
+48061,TX,Cardiology,Heart Disease,20,10791,57488.0
+48061,TX,Endocrinology,Diabetes,4,809,3143.0
+48061,TX,Oncology,Cancer,3,1316,288462.0
+48061,TX,Internal Medicine,General Medicine Conditions,87,12316,172388.5
+48061,TX,Neurology,Neurological Disorders,15,2080,7124.0
+48061,TX,Psychiatry,Mental Health Disorders,11,546,2452.0
+48061,TX,Pulmonary,Respiratory Disease,6,1931,10938.0
+48061,TX,Rheumatology,Arthritis,2,256,5031.5
+48063,TX,Internal Medicine,General Medicine Conditions,1,263,307.0
+48067,TX,Internal Medicine,General Medicine Conditions,4,1470,2690.0
+48067,TX,Psychiatry,Mental Health Disorders,1,18,112.0
+48071,TX,Cardiology,Heart Disease,1,475,9341.0
+48071,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48073,TX,Oncology,Cancer,1,1058,209861.0
+48073,TX,Internal Medicine,General Medicine Conditions,3,407,2710.0
+48073,TX,Psychiatry,Mental Health Disorders,10,133,436.0
+48085,TX,Cardiology,Heart Disease,68,59591,286900.0
+48085,TX,Endocrinology,Diabetes,18,5615,70215.0
+48085,TX,Oncology,Cancer,23,10730,2219530.0
+48085,TX,Internal Medicine,General Medicine Conditions,393,97602,711787.5
+48085,TX,Neurology,Neurological Disorders,63,20645,584116.0
+48085,TX,Psychiatry,Mental Health Disorders,109,4346,32323.0
+48085,TX,Pulmonary,Respiratory Disease,21,10224,98853.0
+48085,TX,Rheumatology,Arthritis,17,2549,429413.0
+48087,TX,Internal Medicine,General Medicine Conditions,1,43,193.0
+48089,TX,Cardiology,Heart Disease,1,1239,3431.0
+48089,TX,Internal Medicine,General Medicine Conditions,2,196,1763.0
+48089,TX,Pulmonary,Respiratory Disease,1,0,0.0
+48091,TX,Endocrinology,Diabetes,1,336,1107.0
+48091,TX,Internal Medicine,General Medicine Conditions,10,6323,37622.0
+48091,TX,Neurology,Neurological Disorders,1,645,3750.0
+48091,TX,Psychiatry,Mental Health Disorders,5,0,0.0
+48093,TX,Internal Medicine,General Medicine Conditions,3,246,392.0
+48097,TX,Cardiology,Heart Disease,2,1848,7078.0
+48097,TX,Internal Medicine,General Medicine Conditions,4,639,4070.0
+48097,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48099,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48113,TX,Cardiology,Heart Disease,144,85570,319125.0
+48113,TX,Endocrinology,Diabetes,77,18286,93724.0
+48113,TX,Oncology,Cancer,91,20131,3482994.0
+48113,TX,Internal Medicine,General Medicine Conditions,983,181880,1535152.0
+48113,TX,Neurology,Neurological Disorders,140,28260,932777.0
+48113,TX,Psychiatry,Mental Health Disorders,189,10726,50555.0
+48113,TX,Pulmonary,Respiratory Disease,113,30154,95554.0
+48113,TX,Rheumatology,Arthritis,42,6772,1058537.0
+48117,TX,Internal Medicine,General Medicine Conditions,3,456,1125.0
+48121,TX,Cardiology,Heart Disease,23,12849,51706.0
+48121,TX,Endocrinology,Diabetes,10,2507,13300.0
+48121,TX,Oncology,Cancer,14,5568,1458479.5
+48121,TX,Internal Medicine,General Medicine Conditions,143,36269,387885.0
+48121,TX,Neurology,Neurological Disorders,31,7333,75209.0
+48121,TX,Psychiatry,Mental Health Disorders,26,2213,13657.0
+48121,TX,Pulmonary,Respiratory Disease,8,3303,14492.0
+48121,TX,Rheumatology,Arthritis,6,1178,104669.0
+48123,TX,Cardiology,Heart Disease,2,1528,4713.0
+48123,TX,Internal Medicine,General Medicine Conditions,3,220,445.0
+48123,TX,Psychiatry,Mental Health Disorders,1,17,41.0
+48133,TX,Cardiology,Heart Disease,1,706,1112.0
+48133,TX,Internal Medicine,General Medicine Conditions,4,1070,8561.0
+48135,TX,Cardiology,Heart Disease,4,6273,17842.0
+48135,TX,Endocrinology,Diabetes,5,669,6860.0
+48135,TX,Oncology,Cancer,2,497,136309.0
+48135,TX,Internal Medicine,General Medicine Conditions,29,6443,44540.0
+48135,TX,Psychiatry,Mental Health Disorders,5,73,668.0
+48135,TX,Pulmonary,Respiratory Disease,2,260,542.0
+48139,TX,Cardiology,Heart Disease,5,1988,9607.0
+48139,TX,Endocrinology,Diabetes,5,1727,13485.0
+48139,TX,Oncology,Cancer,2,768,2466.0
+48139,TX,Internal Medicine,General Medicine Conditions,57,22113,208954.0
+48139,TX,Neurology,Neurological Disorders,6,2148,47522.0
+48139,TX,Psychiatry,Mental Health Disorders,2,88,517.0
+48139,TX,Pulmonary,Respiratory Disease,2,1294,3391.0
+48139,TX,Rheumatology,Arthritis,4,1037,192998.0
+48141,TX,Cardiology,Heart Disease,32,11813,53285.0
+48141,TX,Endocrinology,Diabetes,6,1346,5370.0
+48141,TX,Oncology,Cancer,20,4206,726653.0
+48141,TX,Internal Medicine,General Medicine Conditions,179,25113,166787.0
+48141,TX,Neurology,Neurological Disorders,22,3587,26061.0
+48141,TX,Psychiatry,Mental Health Disorders,41,1716,9006.0
+48141,TX,Pulmonary,Respiratory Disease,15,4666,38716.0
+48141,TX,Rheumatology,Arthritis,8,1207,340647.0
+48143,TX,Oncology,Cancer,1,468,329173.0
+48143,TX,Internal Medicine,General Medicine Conditions,6,2482,45544.0
+48145,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48147,TX,Endocrinology,Diabetes,1,706,9557.0
+48147,TX,Internal Medicine,General Medicine Conditions,3,873,2955.0
+48149,TX,Internal Medicine,General Medicine Conditions,2,89,145.0
+48157,TX,Cardiology,Heart Disease,61,41254,124010.0
+48157,TX,Endocrinology,Diabetes,33,8514,101293.0
+48157,TX,Oncology,Cancer,21,3964,373691.0
+48157,TX,Internal Medicine,General Medicine Conditions,248,50793,297049.0
+48157,TX,Neurology,Neurological Disorders,62,19597,917184.0
+48157,TX,Psychiatry,Mental Health Disorders,38,2007,18628.0
+48157,TX,Pulmonary,Respiratory Disease,18,6889,43389.0
+48157,TX,Rheumatology,Arthritis,22,3468,903950.2
+48161,TX,Internal Medicine,General Medicine Conditions,5,1015,2428.0
+48163,TX,Internal Medicine,General Medicine Conditions,2,265,545.0
+48165,TX,Pulmonary,Respiratory Disease,1,98,479.0
+48167,TX,Cardiology,Heart Disease,19,15495,34330.0
+48167,TX,Endocrinology,Diabetes,7,935,2144.0
+48167,TX,Oncology,Cancer,8,933,59914.0
+48167,TX,Internal Medicine,General Medicine Conditions,64,9423,41812.0
+48167,TX,Neurology,Neurological Disorders,17,3788,8718.0
+48167,TX,Psychiatry,Mental Health Disorders,33,1966,9863.0
+48167,TX,Pulmonary,Respiratory Disease,7,2150,7897.0
+48167,TX,Rheumatology,Arthritis,7,1050,209142.0
+48171,TX,Cardiology,Heart Disease,2,2376,8127.0
+48171,TX,Oncology,Cancer,1,769,299454.0
+48171,TX,Internal Medicine,General Medicine Conditions,9,5107,33302.0
+48171,TX,Neurology,Neurological Disorders,2,754,4821.0
+48171,TX,Rheumatology,Arthritis,1,459,32639.0
+48177,TX,Cardiology,Heart Disease,2,2410,30190.0
+48177,TX,Internal Medicine,General Medicine Conditions,1,159,1104.0
+48177,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48179,TX,Internal Medicine,General Medicine Conditions,10,1503,10369.0
+48179,TX,Pulmonary,Respiratory Disease,1,0,0.0
+48181,TX,Cardiology,Heart Disease,2,2748,22813.0
+48181,TX,Endocrinology,Diabetes,1,574,22361.0
+48181,TX,Oncology,Cancer,3,2806,641450.0
+48181,TX,Internal Medicine,General Medicine Conditions,42,14720,154231.0
+48181,TX,Neurology,Neurological Disorders,6,2448,56620.0
+48181,TX,Psychiatry,Mental Health Disorders,7,1019,9948.0
+48181,TX,Pulmonary,Respiratory Disease,3,3056,22152.0
+48183,TX,Cardiology,Heart Disease,5,6057,28727.0
+48183,TX,Endocrinology,Diabetes,1,374,5149.0
+48183,TX,Oncology,Cancer,3,1882,352640.0
+48183,TX,Internal Medicine,General Medicine Conditions,46,13579,299557.0
+48183,TX,Neurology,Neurological Disorders,3,1190,10592.0
+48183,TX,Psychiatry,Mental Health Disorders,3,259,848.0
+48183,TX,Pulmonary,Respiratory Disease,3,2344,10468.0
+48183,TX,Rheumatology,Arthritis,2,1182,147888.0
+48185,TX,Internal Medicine,General Medicine Conditions,1,669,5230.0
+48187,TX,Cardiology,Heart Disease,8,7732,40000.0
+48187,TX,Endocrinology,Diabetes,1,340,1513.0
+48187,TX,Oncology,Cancer,3,2039,459452.0
+48187,TX,Internal Medicine,General Medicine Conditions,16,3537,21914.0
+48187,TX,Psychiatry,Mental Health Disorders,1,50,96.0
+48187,TX,Pulmonary,Respiratory Disease,1,842,2848.0
+48189,TX,Internal Medicine,General Medicine Conditions,4,825,2264.0
+48189,TX,Psychiatry,Mental Health Disorders,1,36,83.0
+48199,TX,Internal Medicine,General Medicine Conditions,4,1108,5885.0
+48201,TX,Cardiology,Heart Disease,358,215486,1042131.1
+48201,TX,Endocrinology,Diabetes,138,25967,307049.0
+48201,TX,Oncology,Cancer,186,30797,4370301.0
+48201,TX,Internal Medicine,General Medicine Conditions,1338,198234,2011595.0
+48201,TX,Neurology,Neurological Disorders,315,57812,1471597.0
+48201,TX,Psychiatry,Mental Health Disorders,376,13780,75176.0
+48201,TX,Pulmonary,Respiratory Disease,146,46189,288455.0
+48201,TX,Rheumatology,Arthritis,99,16396,3652869.0
+48203,TX,Cardiology,Heart Disease,1,83,348.0
+48203,TX,Internal Medicine,General Medicine Conditions,3,866,4384.0
+48203,TX,Psychiatry,Mental Health Disorders,1,26,55.0
+48207,TX,Cardiology,Heart Disease,1,3181,9429.0
+48207,TX,Oncology,Cancer,1,266,1118.0
+48209,TX,Cardiology,Heart Disease,7,5166,18578.0
+48209,TX,Endocrinology,Diabetes,1,117,2415.0
+48209,TX,Oncology,Cancer,1,290,47536.0
+48209,TX,Internal Medicine,General Medicine Conditions,13,5153,82644.0
+48209,TX,Neurology,Neurological Disorders,2,935,2744.0
+48209,TX,Psychiatry,Mental Health Disorders,3,82,444.0
+48209,TX,Pulmonary,Respiratory Disease,3,1717,6838.0
+48209,TX,Rheumatology,Arthritis,3,1099,163179.0
+48211,TX,Neurology,Neurological Disorders,1,223,297.0
+48213,TX,Cardiology,Heart Disease,1,1220,3576.0
+48213,TX,Internal Medicine,General Medicine Conditions,4,736,10106.0
+48213,TX,Neurology,Neurological Disorders,1,419,1246.0
+48213,TX,Psychiatry,Mental Health Disorders,1,73,263.0
+48215,TX,Cardiology,Heart Disease,19,6360,21138.0
+48215,TX,Endocrinology,Diabetes,11,1936,40386.0
+48215,TX,Oncology,Cancer,14,2334,384568.0
+48215,TX,Internal Medicine,General Medicine Conditions,133,21813,164039.0
+48215,TX,Neurology,Neurological Disorders,21,2742,22092.9
+48215,TX,Psychiatry,Mental Health Disorders,20,1077,5268.0
+48215,TX,Pulmonary,Respiratory Disease,22,6935,29245.0
+48215,TX,Rheumatology,Arthritis,4,1102,211587.0
+48217,TX,Cardiology,Heart Disease,1,1451,5067.0
+48217,TX,Internal Medicine,General Medicine Conditions,4,1091,2675.0
+48219,TX,Cardiology,Heart Disease,2,4199,39998.0
+48219,TX,Endocrinology,Diabetes,2,766,2246.0
+48219,TX,Internal Medicine,General Medicine Conditions,4,1693,11804.0
+48219,TX,Pulmonary,Respiratory Disease,4,1834,6754.0
+48221,TX,Cardiology,Heart Disease,1,968,3947.0
+48221,TX,Oncology,Cancer,1,300,106875.0
+48221,TX,Internal Medicine,General Medicine Conditions,12,3808,33946.5
+48221,TX,Neurology,Neurological Disorders,1,832,6584.0
+48221,TX,Psychiatry,Mental Health Disorders,5,192,573.0
+48221,TX,Pulmonary,Respiratory Disease,1,1043,3139.0
+48223,TX,Cardiology,Heart Disease,9,9799,29911.0
+48223,TX,Internal Medicine,General Medicine Conditions,10,3669,12675.0
+48223,TX,Pulmonary,Respiratory Disease,4,1452,5465.0
+48223,TX,Rheumatology,Arthritis,1,157,687.0
+48225,TX,Cardiology,Heart Disease,3,4311,13876.0
+48225,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48227,TX,Cardiology,Heart Disease,4,2122,8056.0
+48227,TX,Oncology,Cancer,1,667,205345.0
+48227,TX,Internal Medicine,General Medicine Conditions,10,2288,28117.0
+48227,TX,Neurology,Neurological Disorders,5,3547,234648.0
+48227,TX,Psychiatry,Mental Health Disorders,7,115,353.0
+48227,TX,Pulmonary,Respiratory Disease,2,700,3431.0
+48227,TX,Rheumatology,Arthritis,2,589,62572.0
+48231,TX,Cardiology,Heart Disease,2,1536,8086.0
+48231,TX,Internal Medicine,General Medicine Conditions,15,4028,14122.0
+48231,TX,Neurology,Neurological Disorders,2,809,2232.0
+48231,TX,Psychiatry,Mental Health Disorders,6,469,4843.0
+48231,TX,Pulmonary,Respiratory Disease,1,709,2091.0
+48233,TX,Psychiatry,Mental Health Disorders,1,37,1781.0
+48237,TX,Internal Medicine,General Medicine Conditions,3,1287,23535.0
+48239,TX,Internal Medicine,General Medicine Conditions,2,315,678.0
+48241,TX,Internal Medicine,General Medicine Conditions,6,1173,5762.0
+48245,TX,Cardiology,Heart Disease,15,11816,93031.0
+48245,TX,Endocrinology,Diabetes,5,3402,165768.0
+48245,TX,Oncology,Cancer,3,1371,305996.0
+48245,TX,Internal Medicine,General Medicine Conditions,53,14997,132859.0
+48245,TX,Neurology,Neurological Disorders,8,2758,105584.0
+48245,TX,Psychiatry,Mental Health Disorders,14,871,5328.0
+48245,TX,Pulmonary,Respiratory Disease,8,3893,12987.0
+48245,TX,Rheumatology,Arthritis,5,1194,114130.0
+48249,TX,Cardiology,Heart Disease,2,2032,18251.0
+48249,TX,Internal Medicine,General Medicine Conditions,5,296,866.0
+48249,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48251,TX,Cardiology,Heart Disease,5,3670,14123.0
+48251,TX,Endocrinology,Diabetes,1,442,1656.0
+48251,TX,Oncology,Cancer,1,181,61805.0
+48251,TX,Internal Medicine,General Medicine Conditions,44,10483,53150.0
+48251,TX,Neurology,Neurological Disorders,2,825,2597.0
+48251,TX,Psychiatry,Mental Health Disorders,4,549,2521.0
+48251,TX,Pulmonary,Respiratory Disease,5,3341,14439.0
+48251,TX,Rheumatology,Arthritis,1,346,18861.0
+48253,TX,Cardiology,Heart Disease,6,9878,21593.0
+48253,TX,Endocrinology,Diabetes,2,642,1588.0
+48253,TX,Oncology,Cancer,6,2473,439010.0
+48253,TX,Internal Medicine,General Medicine Conditions,37,13600,59406.0
+48253,TX,Neurology,Neurological Disorders,3,2315,11640.0
+48253,TX,Psychiatry,Mental Health Disorders,2,21,24.0
+48253,TX,Pulmonary,Respiratory Disease,1,1101,4394.0
+48253,TX,Rheumatology,Arthritis,2,835,8957.0
+48257,TX,Cardiology,Heart Disease,4,4675,30346.0
+48257,TX,Endocrinology,Diabetes,1,325,969.0
+48257,TX,Internal Medicine,General Medicine Conditions,11,2189,17376.0
+48257,TX,Neurology,Neurological Disorders,1,23,967.0
+48257,TX,Psychiatry,Mental Health Disorders,18,333,1719.0
+48257,TX,Rheumatology,Arthritis,1,382,31865.0
+48259,TX,Cardiology,Heart Disease,1,1366,4824.0
+48259,TX,Internal Medicine,General Medicine Conditions,3,727,2711.0
+48259,TX,Neurology,Neurological Disorders,5,1590,14649.0
+48259,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48259,TX,Pulmonary,Respiratory Disease,2,984,3489.0
+48265,TX,Cardiology,Heart Disease,4,3288,11240.0
+48265,TX,Endocrinology,Diabetes,1,632,1861.0
+48265,TX,Oncology,Cancer,1,680,195395.0
+48265,TX,Internal Medicine,General Medicine Conditions,42,11327,50646.0
+48265,TX,Neurology,Neurological Disorders,3,1480,11471.0
+48265,TX,Psychiatry,Mental Health Disorders,3,65,215.0
+48265,TX,Pulmonary,Respiratory Disease,1,1148,2932.0
+48265,TX,Rheumatology,Arthritis,1,462,20342.0
+48273,TX,Cardiology,Heart Disease,4,2338,5586.0
+48273,TX,Internal Medicine,General Medicine Conditions,5,855,2611.0
+48275,TX,Internal Medicine,General Medicine Conditions,1,185,525.0
+48277,TX,Cardiology,Heart Disease,3,3082,43845.0
+48277,TX,Endocrinology,Diabetes,1,273,748.0
+48277,TX,Internal Medicine,General Medicine Conditions,11,4118,22925.0
+48277,TX,Neurology,Neurological Disorders,2,165,1931.0
+48277,TX,Psychiatry,Mental Health Disorders,1,73,637.0
+48277,TX,Pulmonary,Respiratory Disease,1,509,1332.0
+48279,TX,Internal Medicine,General Medicine Conditions,2,190,260.0
+48281,TX,Internal Medicine,General Medicine Conditions,1,724,3057.0
+48281,TX,Neurology,Neurological Disorders,1,207,327.0
+48285,TX,Cardiology,Heart Disease,1,861,2162.0
+48285,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48291,TX,Cardiology,Heart Disease,2,479,3357.0
+48291,TX,Internal Medicine,General Medicine Conditions,4,1053,6761.0
+48291,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48293,TX,Internal Medicine,General Medicine Conditions,3,181,841.0
+48293,TX,Psychiatry,Mental Health Disorders,4,118,250.0
+48299,TX,Internal Medicine,General Medicine Conditions,5,459,1396.0
+48303,TX,Cardiology,Heart Disease,13,14280,52963.0
+48303,TX,Endocrinology,Diabetes,2,903,7780.0
+48303,TX,Oncology,Cancer,13,3175,42470.0
+48303,TX,Internal Medicine,General Medicine Conditions,60,16348,170985.0
+48303,TX,Neurology,Neurological Disorders,6,2015,27746.0
+48303,TX,Psychiatry,Mental Health Disorders,36,1108,3309.0
+48303,TX,Pulmonary,Respiratory Disease,6,2250,10549.0
+48303,TX,Rheumatology,Arthritis,6,2895,727942.4
+48309,TX,Cardiology,Heart Disease,15,25658,72522.0
+48309,TX,Endocrinology,Diabetes,3,986,5093.0
+48309,TX,Oncology,Cancer,5,1361,211721.1
+48309,TX,Internal Medicine,General Medicine Conditions,36,7721,31998.0
+48309,TX,Neurology,Neurological Disorders,11,3109,7705.0
+48309,TX,Psychiatry,Mental Health Disorders,27,1526,3744.0
+48309,TX,Pulmonary,Respiratory Disease,11,4244,14904.0
+48309,TX,Rheumatology,Arthritis,1,173,6807.0
+48317,TX,Internal Medicine,General Medicine Conditions,1,60,84.0
+48317,TX,Psychiatry,Mental Health Disorders,1,107,660.0
+48321,TX,Cardiology,Heart Disease,1,1408,11567.0
+48321,TX,Internal Medicine,General Medicine Conditions,7,2535,20741.0
+48321,TX,Psychiatry,Mental Health Disorders,2,0,0.0
+48323,TX,Endocrinology,Diabetes,2,161,521.0
+48323,TX,Internal Medicine,General Medicine Conditions,9,1709,12404.0
+48325,TX,Endocrinology,Diabetes,1,298,938.0
+48325,TX,Internal Medicine,General Medicine Conditions,2,1532,5985.0
+48329,TX,Cardiology,Heart Disease,4,2599,12953.0
+48329,TX,Endocrinology,Diabetes,1,361,800.0
+48329,TX,Oncology,Cancer,3,1439,342275.0
+48329,TX,Internal Medicine,General Medicine Conditions,32,8011,63642.0
+48329,TX,Neurology,Neurological Disorders,2,375,717.0
+48329,TX,Psychiatry,Mental Health Disorders,6,289,1049.0
+48329,TX,Pulmonary,Respiratory Disease,5,982,3898.0
+48329,TX,Rheumatology,Arthritis,1,165,610.0
+48331,TX,Cardiology,Heart Disease,2,986,1524.0
+48331,TX,Internal Medicine,General Medicine Conditions,1,12,34.0
+48331,TX,Pulmonary,Respiratory Disease,2,1255,3121.0
+48339,TX,Cardiology,Heart Disease,46,33125,141810.0
+48339,TX,Endocrinology,Diabetes,5,1632,84852.0
+48339,TX,Oncology,Cancer,14,3875,926362.0
+48339,TX,Internal Medicine,General Medicine Conditions,103,18489,188524.5
+48339,TX,Neurology,Neurological Disorders,40,7759,455916.0
+48339,TX,Psychiatry,Mental Health Disorders,21,1236,10773.0
+48339,TX,Pulmonary,Respiratory Disease,21,9602,129077.0
+48339,TX,Rheumatology,Arthritis,12,2782,1289425.0
+48341,TX,Internal Medicine,General Medicine Conditions,6,1387,9300.0
+48343,TX,Cardiology,Heart Disease,1,911,2457.0
+48347,TX,Cardiology,Heart Disease,2,1757,10456.0
+48347,TX,Internal Medicine,General Medicine Conditions,11,2642,26821.0
+48347,TX,Neurology,Neurological Disorders,3,765,7337.0
+48347,TX,Psychiatry,Mental Health Disorders,1,73,323.0
+48347,TX,Pulmonary,Respiratory Disease,4,2034,21774.0
+48349,TX,Cardiology,Heart Disease,1,754,1933.0
+48349,TX,Oncology,Cancer,1,164,29134.0
+48349,TX,Internal Medicine,General Medicine Conditions,3,229,474.0
+48355,TX,Cardiology,Heart Disease,19,9121,39929.0
+48355,TX,Endocrinology,Diabetes,5,969,11701.0
+48355,TX,Oncology,Cancer,9,3958,1148702.0
+48355,TX,Internal Medicine,General Medicine Conditions,63,14779,197823.0
+48355,TX,Neurology,Neurological Disorders,10,2452,14725.0
+48355,TX,Psychiatry,Mental Health Disorders,7,634,2773.0
+48355,TX,Pulmonary,Respiratory Disease,5,2748,14513.0
+48355,TX,Rheumatology,Arthritis,5,1197,150031.0
+48361,TX,Internal Medicine,General Medicine Conditions,2,297,1557.0
+48363,TX,Cardiology,Heart Disease,1,717,2579.0
+48363,TX,Endocrinology,Diabetes,1,225,2235.0
+48363,TX,Oncology,Cancer,1,413,153664.0
+48363,TX,Internal Medicine,General Medicine Conditions,3,541,1202.0
+48365,TX,Internal Medicine,General Medicine Conditions,1,0,0.0
+48367,TX,Cardiology,Heart Disease,2,2788,13063.0
+48367,TX,Endocrinology,Diabetes,3,725,4973.0
+48367,TX,Oncology,Cancer,8,3255,1160130.0
+48367,TX,Internal Medicine,General Medicine Conditions,19,5415,36719.0
+48367,TX,Neurology,Neurological Disorders,1,347,1228.0
+48367,TX,Psychiatry,Mental Health Disorders,4,186,684.0
+48367,TX,Pulmonary,Respiratory Disease,1,1470,11410.0
+48367,TX,Rheumatology,Arthritis,1,310,39919.0
+48369,TX,Internal Medicine,General Medicine Conditions,3,161,463.0
+48371,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48373,TX,Endocrinology,Diabetes,1,277,741.0
+48373,TX,Oncology,Cancer,1,285,135945.0
+48373,TX,Internal Medicine,General Medicine Conditions,5,1002,10148.0
+48373,TX,Pulmonary,Respiratory Disease,1,395,1473.0
+48375,TX,Cardiology,Heart Disease,10,21130,98749.0
+48375,TX,Endocrinology,Diabetes,4,2135,49700.0
+48375,TX,Oncology,Cancer,8,5227,854812.0
+48375,TX,Internal Medicine,General Medicine Conditions,53,15258,224377.0
+48375,TX,Neurology,Neurological Disorders,5,3089,118933.0
+48375,TX,Psychiatry,Mental Health Disorders,10,531,3624.0
+48375,TX,Pulmonary,Respiratory Disease,10,5907,28368.0
+48375,TX,Rheumatology,Arthritis,9,3988,872598.0
+48377,TX,Internal Medicine,General Medicine Conditions,2,27,44.0
+48381,TX,Internal Medicine,General Medicine Conditions,3,757,3818.0
+48381,TX,Psychiatry,Mental Health Disorders,1,148,637.0
+48387,TX,Internal Medicine,General Medicine Conditions,1,865,2578.0
+48389,TX,Internal Medicine,General Medicine Conditions,1,56,122.0
+48391,TX,Internal Medicine,General Medicine Conditions,1,22,114.0
+48397,TX,Cardiology,Heart Disease,2,4166,14637.0
+48397,TX,Oncology,Cancer,1,401,51935.0
+48397,TX,Internal Medicine,General Medicine Conditions,16,4163,17507.0
+48397,TX,Neurology,Neurological Disorders,1,557,2734.0
+48397,TX,Psychiatry,Mental Health Disorders,2,921,5654.0
+48397,TX,Pulmonary,Respiratory Disease,3,1285,5952.0
+48397,TX,Rheumatology,Arthritis,1,65,817.0
+48401,TX,Cardiology,Heart Disease,2,1367,3728.0
+48401,TX,Endocrinology,Diabetes,5,2853,11542.0
+48401,TX,Internal Medicine,General Medicine Conditions,9,3297,12302.0
+48401,TX,Neurology,Neurological Disorders,2,957,3726.0
+48401,TX,Psychiatry,Mental Health Disorders,3,125,333.0
+48401,TX,Pulmonary,Respiratory Disease,2,666,2985.0
+48401,TX,Rheumatology,Arthritis,3,1470,4901.0
+48407,TX,Internal Medicine,General Medicine Conditions,1,2609,35368.0
+48409,TX,Internal Medicine,General Medicine Conditions,5,542,6040.0
+48415,TX,Internal Medicine,General Medicine Conditions,1,75,228.0
+48415,TX,Pulmonary,Respiratory Disease,1,385,1915.0
+48419,TX,Internal Medicine,General Medicine Conditions,1,180,552.0
+48419,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48423,TX,Cardiology,Heart Disease,15,13731,41555.0
+48423,TX,Endocrinology,Diabetes,5,1554,5495.0
+48423,TX,Oncology,Cancer,11,5257,428623.0
+48423,TX,Internal Medicine,General Medicine Conditions,131,41352,412352.0
+48423,TX,Neurology,Neurological Disorders,23,6886,28646.0
+48423,TX,Psychiatry,Mental Health Disorders,23,905,4863.0
+48423,TX,Pulmonary,Respiratory Disease,10,3347,13980.0
+48423,TX,Rheumatology,Arthritis,6,1639,42287.0
+48425,TX,Internal Medicine,General Medicine Conditions,2,173,917.0
+48425,TX,Psychiatry,Mental Health Disorders,1,36,365.0
+48427,TX,Internal Medicine,General Medicine Conditions,3,225,1177.0
+48429,TX,Internal Medicine,General Medicine Conditions,2,95,224.0
+48439,TX,Cardiology,Heart Disease,99,73301,298503.0
+48439,TX,Endocrinology,Diabetes,34,9500,74245.0
+48439,TX,Oncology,Cancer,38,10134,1894303.0
+48439,TX,Internal Medicine,General Medicine Conditions,553,117383,959793.0
+48439,TX,Neurology,Neurological Disorders,75,22754,395207.5
+48439,TX,Psychiatry,Mental Health Disorders,83,3578,18988.0
+48439,TX,Pulmonary,Respiratory Disease,51,16366,53329.0
+48439,TX,Rheumatology,Arthritis,36,8583,1200962.5
+48441,TX,Cardiology,Heart Disease,3,2926,9995.0
+48441,TX,Endocrinology,Diabetes,2,1079,21229.0
+48441,TX,Oncology,Cancer,1,709,204888.0
+48441,TX,Internal Medicine,General Medicine Conditions,16,5877,58430.0
+48441,TX,Neurology,Neurological Disorders,5,532,10653.0
+48441,TX,Psychiatry,Mental Health Disorders,7,298,1885.0
+48441,TX,Pulmonary,Respiratory Disease,2,665,1276.0
+48441,TX,Rheumatology,Arthritis,1,369,1355.0
+48449,TX,Cardiology,Heart Disease,1,992,2724.0
+48449,TX,Internal Medicine,General Medicine Conditions,10,3129,155926.0
+48449,TX,Neurology,Neurological Disorders,2,722,1703.0
+48449,TX,Psychiatry,Mental Health Disorders,3,221,3562.0
+48449,TX,Pulmonary,Respiratory Disease,3,973,2792.0
+48451,TX,Cardiology,Heart Disease,6,10092,35927.0
+48451,TX,Endocrinology,Diabetes,4,1192,5313.0
+48451,TX,Oncology,Cancer,9,2905,13206.0
+48451,TX,Internal Medicine,General Medicine Conditions,43,12098,61873.0
+48451,TX,Neurology,Neurological Disorders,13,3788,64933.0
+48451,TX,Psychiatry,Mental Health Disorders,11,355,1675.0
+48451,TX,Pulmonary,Respiratory Disease,3,512,1683.0
+48451,TX,Rheumatology,Arthritis,3,511,35633.0
+48453,TX,Cardiology,Heart Disease,71,50885,195004.0
+48453,TX,Endocrinology,Diabetes,31,8050,109146.0
+48453,TX,Oncology,Cancer,22,6594,1059790.0
+48453,TX,Internal Medicine,General Medicine Conditions,461,100580,567697.0
+48453,TX,Neurology,Neurological Disorders,90,17163,238401.0
+48453,TX,Psychiatry,Mental Health Disorders,124,4154,17856.0
+48453,TX,Pulmonary,Respiratory Disease,29,7260,33997.0
+48453,TX,Rheumatology,Arthritis,19,4705,1146001.0
+48455,TX,Internal Medicine,General Medicine Conditions,2,730,3909.0
+48457,TX,Internal Medicine,General Medicine Conditions,2,206,668.0
+48459,TX,Internal Medicine,General Medicine Conditions,1,330,5001.0
+48463,TX,Cardiology,Heart Disease,2,1122,4731.0
+48463,TX,Oncology,Cancer,1,0,0.0
+48463,TX,Internal Medicine,General Medicine Conditions,6,551,1610.0
+48463,TX,Psychiatry,Mental Health Disorders,3,70,166.0
+48463,TX,Pulmonary,Respiratory Disease,1,407,1083.0
+48465,TX,Cardiology,Heart Disease,1,427,909.0
+48465,TX,Internal Medicine,General Medicine Conditions,1,465,3214.0
+48465,TX,Psychiatry,Mental Health Disorders,1,157,403.0
+48467,TX,Internal Medicine,General Medicine Conditions,4,877,2561.0
+48469,TX,Cardiology,Heart Disease,7,4824,36846.0
+48469,TX,Oncology,Cancer,2,768,3481.0
+48469,TX,Internal Medicine,General Medicine Conditions,24,11895,269010.0
+48469,TX,Neurology,Neurological Disorders,1,185,410.0
+48469,TX,Psychiatry,Mental Health Disorders,1,42,100.0
+48469,TX,Pulmonary,Respiratory Disease,2,1041,3461.0
+48469,TX,Rheumatology,Arthritis,1,412,97196.0
+48471,TX,Cardiology,Heart Disease,3,351,854.0
+48471,TX,Internal Medicine,General Medicine Conditions,21,4600,29090.0
+48471,TX,Neurology,Neurological Disorders,1,108,731.0
+48471,TX,Psychiatry,Mental Health Disorders,1,15,116.0
+48471,TX,Pulmonary,Respiratory Disease,1,722,4175.0
+48471,TX,Rheumatology,Arthritis,1,330,95023.0
+48473,TX,Internal Medicine,General Medicine Conditions,1,285,2201.0
+48473,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48475,TX,Internal Medicine,General Medicine Conditions,2,320,5177.0
+48475,TX,Rheumatology,Arthritis,1,20,44.0
+48477,TX,Psychiatry,Mental Health Disorders,1,0,0.0
+48479,TX,Cardiology,Heart Disease,2,1653,8255.0
+48479,TX,Endocrinology,Diabetes,1,228,1006.0
+48479,TX,Oncology,Cancer,2,735,64880.0
+48479,TX,Internal Medicine,General Medicine Conditions,40,10367,181534.0
+48479,TX,Neurology,Neurological Disorders,3,923,4689.0
+48479,TX,Psychiatry,Mental Health Disorders,3,89,169.0
+48479,TX,Pulmonary,Respiratory Disease,6,1509,12560.0
+48479,TX,Rheumatology,Arthritis,1,267,88136.0
+48481,TX,Internal Medicine,General Medicine Conditions,2,2307,5575.0
+48481,TX,Psychiatry,Mental Health Disorders,1,68,375.0
+48481,TX,Pulmonary,Respiratory Disease,3,1763,9735.0
+48485,TX,Cardiology,Heart Disease,10,14720,55794.0
+48485,TX,Oncology,Cancer,1,1598,368193.0
+48485,TX,Internal Medicine,General Medicine Conditions,29,9278,62455.0
+48485,TX,Neurology,Neurological Disorders,5,3260,156911.0
+48485,TX,Psychiatry,Mental Health Disorders,11,1557,9616.0
+48485,TX,Rheumatology,Arthritis,3,1550,725578.0
+48487,TX,Internal Medicine,General Medicine Conditions,2,435,7706.0
+48491,TX,Cardiology,Heart Disease,16,11523,39375.0
+48491,TX,Endocrinology,Diabetes,12,5286,34290.0
+48491,TX,Oncology,Cancer,21,9728,2169349.0
+48491,TX,Internal Medicine,General Medicine Conditions,132,31556,186328.0
+48491,TX,Neurology,Neurological Disorders,21,3496,104477.0
+48491,TX,Psychiatry,Mental Health Disorders,49,595,2858.0
+48491,TX,Pulmonary,Respiratory Disease,6,2486,7799.0
+48491,TX,Rheumatology,Arthritis,9,2515,445247.0
+48493,TX,Cardiology,Heart Disease,1,649,2228.0
+48493,TX,Internal Medicine,General Medicine Conditions,2,231,509.0
+48497,TX,Cardiology,Heart Disease,2,1376,12539.0
+48497,TX,Internal Medicine,General Medicine Conditions,5,716,8312.0
+48497,TX,Psychiatry,Mental Health Disorders,1,412,2946.0
+48497,TX,Pulmonary,Respiratory Disease,1,256,756.0
+48497,TX,Rheumatology,Arthritis,1,769,115716.0
+48499,TX,Endocrinology,Diabetes,1,458,1269.0
+48499,TX,Oncology,Cancer,1,284,34162.0
+48499,TX,Internal Medicine,General Medicine Conditions,6,2253,14616.0
+48499,TX,Neurology,Neurological Disorders,1,453,553.0
+48499,TX,Psychiatry,Mental Health Disorders,1,42,247.0
+48503,TX,Oncology,Cancer,1,1437,364512.0
+48503,TX,Internal Medicine,General Medicine Conditions,1,479,20096.0
+48505,TX,Psychiatry,Mental Health Disorders,3,117,647.0
