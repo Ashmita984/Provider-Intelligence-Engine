@@ -27,7 +27,7 @@ class MLService:
 
     def _load_models(self):
         try:
-            clf_path = self._find_file("decision_tree.pkl") or self._find_file("xgboost.pkl")
+            clf_path = self._find_file("xgboost.pkl") or self._find_file("random_forest.pkl")
             pipeline_path = self._find_file("preprocessing_pipeline.pkl")
             cluster_path = self._find_file("clustering_model.pkl")
             anomaly_path = self._find_file("anomaly_model_ratio.pkl") or self._find_file("anomaly_model.pkl")
@@ -45,7 +45,7 @@ class MLService:
 
     def predict_access_gap(self, data: AreaInput) -> MLPredictionResponse:
         try:
-            input_dict = data.dict()
+            input_dict = data.model_dump() if hasattr(data, "model_dump") else data.dict()
             df = pd.DataFrame([input_dict])
 
             # 1. Classification Prediction

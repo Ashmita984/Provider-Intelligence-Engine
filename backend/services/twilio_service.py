@@ -105,8 +105,25 @@ def send_sms_alert(to_number: str, message: str = None) -> dict:
             "message_sid": msg.sid
         }
     except Exception as e:
+        err_str = str(e)
+        if any(term in err_str.lower() for term in ["template", "trial", "predefined", "disallowed"]):
+            try:
+                msg = client.messages.create(
+                    body="sms_appointment_reminders",
+                    from_=sms_from,
+                    to=formatted_to
+                )
+                return {
+                    "status": "sent",
+                    "message_sid": msg.sid
+                }
+            except Exception as e2:
+                return {
+                    "status": "failed",
+                    "error": str(e2)
+                }
         return {
             "status": "failed",
-            "error": str(e)
+            "error": err_str
         }
 

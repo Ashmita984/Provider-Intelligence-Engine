@@ -25,6 +25,7 @@ class NotificationRequest(BaseModel):
     specialty: Optional[str] = Field(None, description="Healthcare specialty experiencing shortage")
     risk_level: Optional[str] = Field(None, description="Risk level (e.g. HIGH, CRITICAL)")
     recommendation: Optional[str] = Field(None, description="Recommended action (e.g. Provider recruitment recommended)")
+    area_input: Optional[AreaInput] = Field(None, description="Optional area metrics for dynamic ML access gap evaluation")
 
 class NotificationResponse(BaseModel):
     success: bool = Field(..., description="True if delivery succeeded on any channel, False otherwise")

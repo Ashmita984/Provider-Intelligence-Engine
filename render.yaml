@@ -1,0 +1,21 @@
+# Render Blueprint — auto-deploy from GitHub
+# Docs: https://render.com/docs/blueprint-spec
+
+services:
+  - type: web
+    name: provider-intelligence-api
+    runtime: docker
+    dockerfilePath: backend/Dockerfile
+    dockerContext: backend
+    plan: free
+    envVars:
+      - key: TWILIO_ACCOUNT_SID
+        sync: false
+      - key: TWILIO_AUTH_TOKEN
+        sync: false
+      - key: TWILIO_WHATSAPP_NUMBER
+        sync: false
+      - key: TWILIO_SMS_FROM
+        sync: false
+    healthCheckPath: /
+    autoDeploy: true

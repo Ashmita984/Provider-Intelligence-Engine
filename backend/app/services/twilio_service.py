@@ -10,7 +10,7 @@ load_dotenv()
 # ------------------------------------------------------------------
 # CONFIG
 # ------------------------------------------------------------------
-PROVIDER_DATA_PATH = "UC05_finalled_data/UC05_PROVIDER_FINAL.csv"
+PROVIDER_DATA_PATH = "UC05_ALL_FOUR_DATASETS/UC05_PROVIDER_FINAL_WITH_DISEASE.csv"
 GEO_DATA_PATH = "UC05_geospatial_distances.csv"
 
 # ------------------------------------------------------------------
@@ -105,9 +105,26 @@ def send_sms_alert(to_number: str = None, message: str = None) -> dict:
             "message_sid": msg.sid
         }
     except Exception as e:
+        err_str = str(e)
+        if any(term in err_str.lower() for term in ["template", "trial", "predefined", "disallowed"]):
+            try:
+                msg = client.messages.create(
+                    body="sms_appointment_reminders",
+                    from_=sms_from,
+                    to=formatted_to
+                )
+                return {
+                    "status": "sent",
+                    "message_sid": msg.sid
+                }
+            except Exception as e2:
+                return {
+                    "status": "failed",
+                    "error": str(e2)
+                }
         return {
             "status": "failed",
-            "error": str(e)
+            "error": err_str
         }
 
 
@@ -115,8 +132,17 @@ def send_sms_alert(to_number: str = None, message: str = None) -> dict:
 # PROVIDER LOOKUP & MATCHING
 # ------------------------------------------------------------------
 def load_provider_data(path: str = None) -> pd.DataFrame:
-    p = path or (PROVIDER_DATA_PATH if os.path.exists(PROVIDER_DATA_PATH) else GEO_DATA_PATH)
-    if os.path.exists(p):
+    candidate_paths = [
+        path,
+        PROVIDER_DATA_PATH,
+        "UC05_ALL_FOUR_DATASETS/UC05_PROVIDER_FINAL_WITH_DISEASE.csv",
+        "UC05_FINAL_DATA_WITH_DISEASE (2)/UC05_PROVIDER_FINAL_WITH_DISEASE.csv",
+        "UC05_finalled_data/UC05_PROVIDER_FINAL.csv",
+        "UC05_PROVIDER_FINAL.csv",
+        GEO_DATA_PATH
+    ]
+    p = next((cp for cp in candidate_paths if cp and os.path.exists(cp)), None)
+    if p and os.path.exists(p):
         return pd.read_csv(p, dtype={"NPI": str, "PROVIDER_ID": str, "COUNTY_FIPS": str, "ZIP": str})
     return pd.DataFrame()
 
@@ -193,14 +219,15 @@ def make_provider_call(to_number: str = None, provider: dict = None, specialty: 
     prov_dict = provider or {}
     prov_name = prov_dict.get("PROVIDER_NAME", "a healthcare provider")
 
+    import html
     spoken_text = (
         f"Hello. This is an urgent healthcare access gap notification. "
         f"We found {prov_name} for {specialty}. "
         f"Please check your healthcare portal for full provider matching details."
     )
 
-    encoded_text = urllib.parse.quote_plus(spoken_text)
-    twimlet_url = f"http://twimlets.com/message?Message%5B0%5D={encoded_text}"
+    encoded_text = urllib.parse.quote(spoken_text)
+    twimlet_url = f"https://twimlets.com/message?Message%5B0%5D={encoded_text}"
 
     formatted_to = target_number[len("whatsapp:"):] if target_number.startswith("whatsapp:") else target_number
     formatted_from = call_from[len("whatsapp:"):] if call_from.startswith("whatsapp:") else call_from
@@ -214,6 +241,42 @@ def make_provider_call(to_number: str = None, provider: dict = None, specialty: 
             from_=formatted_from
         )
         return {"status": "sent", "call_sid": call.sid}
+    except Exception as e:
+        return {"status": "failed", "error": str(e)}
+
+
+def send_voice_call_alert(to_number: str = None, message: str = None) -> dict:
+    """
+    Places an automated Voice Call via Twilio Voice API.
+    """
+    load_dotenv()
+    account_sid = settings.TWILIO_ACCOUNT_SID or os.getenv("TWILIO_ACCOUNT_SID")
+    auth_token = settings.TWILIO_AUTH_TOKEN or os.getenv("TWILIO_AUTH_TOKEN")
+    call_from = settings.TWILIO_SMS_FROM or os.getenv("TWILIO_SMS_FROM") or os.getenv("TWILIO_PHONE_NUMBER") or "+17372212163"
+    target_number = to_number or settings.TEST_TO_NUMBER or os.getenv("TEST_TO_NUMBER")
+
+    if call_from and call_from.startswith("whatsapp:"):
+        call_from = call_from[len("whatsapp:"):]
+
+    if not account_sid or not auth_token or not call_from or not target_number:
+        return {"status": "failed", "error": "Twilio Voice call credentials missing."}
+
+    spoken_text = message if message else "Urgent healthcare access gap notification. Provider shortage detected."
+    encoded_text = urllib.parse.quote(spoken_text)
+    twimlet_url = f"https://twimlets.com/message?Message%5B0%5D={encoded_text}"
+
+    formatted_to = target_number[len("whatsapp:"):] if target_number.startswith("whatsapp:") else target_number
+    formatted_from = call_from[len("whatsapp:"):] if call_from.startswith("whatsapp:") else call_from
+
+    try:
+        from twilio.rest import Client
+        client = Client(account_sid, auth_token)
+        call = client.calls.create(
+            url=twimlet_url,
+            to=formatted_to,
+            from_=formatted_from
+        )
+        return {"status": "sent", "message_sid": call.sid}
     except Exception as e:
         return {"status": "failed", "error": str(e)}
 

@@ -1,0 +1,51 @@
+COUNTY_FIPS,STATE,REQUIRED_SPECIALTY,DISEASE,PROVIDER_COUNT,TOTAL_BENEFICIARIES,TOTAL_SERVICES
+26049,MI,Psychiatry,Mental Health Disorders,1,481,1536.0
+26049,MI,Pulmonary,Respiratory Disease,1,633,1910.5
+26049,MI,Rheumatology,Arthritis,1,512,1520.8
+26077,MI,Psychiatry,Mental Health Disorders,1,677,1925.6
+26077,MI,Pulmonary,Respiratory Disease,1,547,1664.8
+26077,MI,Rheumatology,Arthritis,1,769,2311.5
+26099,MI,Psychiatry,Mental Health Disorders,1,353,1073.9
+26099,MI,Pulmonary,Respiratory Disease,1,521,1628.4
+26099,MI,Rheumatology,Arthritis,1,603,2014.4
+26125,MI,Psychiatry,Mental Health Disorders,1,400,1176.9
+26125,MI,Pulmonary,Respiratory Disease,1,578,1799.9
+26125,MI,Rheumatology,Arthritis,1,528,1550.1
+26163,MI,Psychiatry,Mental Health Disorders,1,459,1351.8
+26163,MI,Pulmonary,Respiratory Disease,1,650,1982.4
+26163,MI,Rheumatology,Arthritis,1,426,1098.2
+37051,NC,Cardiology,Heart Disease,1,422,1222.2
+37051,NC,Endocrinology,Diabetes,1,523,1878.9
+37051,NC,Psychiatry,Mental Health Disorders,1,532,1438.5
+37051,NC,Rheumatology,Arthritis,1,468,1400.2
+37067,NC,Cardiology,Heart Disease,1,619,1797.2
+37067,NC,Endocrinology,Diabetes,1,507,1533.8
+37067,NC,Psychiatry,Mental Health Disorders,1,610,1666.1
+37067,NC,Rheumatology,Arthritis,1,391,1184.4
+37081,NC,Cardiology,Heart Disease,1,535,1730.3
+37081,NC,Endocrinology,Diabetes,1,463,1309.1
+37081,NC,Psychiatry,Mental Health Disorders,1,372,1039.7
+37081,NC,Rheumatology,Arthritis,1,445,1304.8
+37119,NC,Cardiology,Heart Disease,1,603,1745.9
+37119,NC,Endocrinology,Diabetes,1,411,1241.1
+37119,NC,Psychiatry,Mental Health Disorders,1,466,1392.3
+37119,NC,Rheumatology,Arthritis,1,459,1340.2
+37183,NC,Cardiology,Heart Disease,1,448,1297.4
+37183,NC,Endocrinology,Diabetes,1,410,1136.4
+37183,NC,Psychiatry,Mental Health Disorders,1,414,1296.3
+37183,NC,Rheumatology,Arthritis,1,562,1528.5
+48029,TX,Cardiology,Heart Disease,1,712,2238.9
+48029,TX,Endocrinology,Diabetes,1,692,2229.1
+48029,TX,Pulmonary,Respiratory Disease,1,474,1367.2
+48085,TX,Cardiology,Heart Disease,1,517,1584.2
+48085,TX,Endocrinology,Diabetes,1,571,1847.4
+48085,TX,Pulmonary,Respiratory Disease,1,606,1911.8
+48113,TX,Cardiology,Heart Disease,1,663,2067.8
+48113,TX,Endocrinology,Diabetes,1,506,1444.2
+48113,TX,Pulmonary,Respiratory Disease,1,518,1649.7
+48201,TX,Cardiology,Heart Disease,3,1257,3889.7
+48201,TX,Endocrinology,Diabetes,2,1084,3210.4
+48201,TX,Pulmonary,Respiratory Disease,3,1425,3932.4
+48439,TX,Cardiology,Heart Disease,1,638,1893.5
+48439,TX,Endocrinology,Diabetes,1,447,1328.9
+48439,TX,Pulmonary,Respiratory Disease,1,663,1897.4

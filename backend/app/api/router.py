@@ -7,6 +7,7 @@ from .routes.analysis import router as analysis_router
 from .routes.optimization import router as optimization_router
 from .routes.simulation import router as simulation_router
 from .routes.notification import router as notification_router
+from .routes.insight import router as insight_router
 
 api_router = APIRouter()
 
@@ -18,3 +19,5 @@ api_router.include_router(analysis_router)
 api_router.include_router(optimization_router)
 api_router.include_router(simulation_router)
 api_router.include_router(notification_router)
+api_router.include_router(insight_router)
+
