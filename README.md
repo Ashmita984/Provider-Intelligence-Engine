@@ -4,6 +4,9 @@
     <strong>AI-Powered Healthcare Provider Network Adequacy & Access-Gap Intelligence Platform</strong>
   </p>
   <p align="center">
+    <strong>Live Demo: <a href="https://provider-intelligence-engine.vercel.app/" target="_blank">provider-intelligence-engine.vercel.app</a></strong>
+  </p>
+  <p align="center">
     <a href="#features">Features</a> •
     <a href="#architecture">Architecture</a> •
     <a href="#quick-start">Quick Start</a> •
@@ -217,6 +220,9 @@ Full interactive docs at `/docs` (Swagger UI) when running the backend.
 
 ### Frontend → Vercel
 
+The frontend is live at: [provider-intelligence-engine.vercel.app](https://provider-intelligence-engine.vercel.app/)
+
+To redeploy or set up your own:
 1. Go to [vercel.com](https://vercel.com) → **New Project**
 2. Import `Ashmita984/Provider-Intelligence-Engine`
 3. Set **Root Directory** to `frontend`
